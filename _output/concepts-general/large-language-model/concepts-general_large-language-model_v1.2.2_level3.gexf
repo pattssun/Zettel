@@ -1,0 +1,874 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-04-12">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="12" title="similarity" type="double" />
+      <attribute id="13" title="reason" type="string" />
+      <attribute id="14" title="width" type="long" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="name" type="string" />
+      <attribute id="1" title="level" type="long" />
+      <attribute id="2" title="wikipedia_link" type="string" />
+      <attribute id="3" title="wikipedia_canonical" type="string" />
+      <attribute id="4" title="wikipedia_normalized" type="string" />
+      <attribute id="5" title="wikipedia_resp_code" type="long" />
+      <attribute id="6" title="wikipedia_content" type="string" />
+      <attribute id="7" title="processed" type="long" />
+      <attribute id="8" title="node_count" type="long" />
+      <attribute id="9" title="title" type="string" />
+      <attribute id="10" title="group" type="long" />
+      <attribute id="11" title="size" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Large language model" label="Large language model">
+        <attvalues>
+          <attvalue for="0" value="Large language model" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/Large_language_model" />
+          <attvalue for="3" value="Large_language_model" />
+          <attvalue for="4" value="Large language model" />
+          <attvalue for="5" value="200" />
+          <attvalue for="6" value="A large language model (LLM) is a language model notable for its ability to achieve general-purpose language generation and other natural language processing tasks such as classification. LLMs acquire these abilities by learning statistical relationships from text documents during a computationally intensive self-supervised and semi-supervised training process. LLMs can be used for text generation, a form of generative AI, by taking an input text and repeatedly predicting the next token or word." />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="0" />
+          <attvalue for="9" value="0. &lt;a href='https://en.wikipedia.org/wiki/Large_language_model' target='_blank'&gt;Large language model&lt;/a&gt;&lt;br /&gt;A large language model (LLM) is a language model notable for its ability to achieve general-purpose language generation and other natural language processing tasks such as classification. LLMs acquire these abilities by learning statistical relationships from text documents during a computationally intensive self-supervised and semi-supervised training process. LLMs can be used for text generation, a form of generative AI, by taking an input text and repeatedly predicting the next token or word.&lt;br /&gt;[200, G1, L1, PR]" />
+          <attvalue for="10" value="1" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="Transformer (machine learning model)" label="Transformer (machine learning model)">
+        <attvalues>
+          <attvalue for="0" value="Transformer (machine learning model)" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)" />
+          <attvalue for="3" value="Transformer_(deep_learning_architecture)" />
+          <attvalue for="4" value="Transformer (deep learning architecture)" />
+          <attvalue for="5" value="200" />
+          <attvalue for="6" value="A transformer is a deep learning architecture developed by Google and based on the multi-head attention mechanism, proposed in a 2017 paper &quot;Attention Is All You Need&quot;. Text is converted to numerical representations called tokens, and each token is converted into a vector via looking up from a word embedding table. At each layer, each token is then contextualized within the scope of the context window with other (unmasked) tokens via a parallel multi-head attention mechanism allowing the signal " />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="1" />
+          <attvalue for="9" value="1. &lt;a href='https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)' target='_blank'&gt;Transformer (machine learning model)&lt;/a&gt; → &lt;a href='https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)' target='_blank'&gt;Transformer (deep learning architecture)&lt;/a&gt;&lt;br /&gt;A transformer is a deep learning architecture developed by Google and based on the multi-head attention mechanism, proposed in a 2017 paper &quot;Attention Is All You Need&quot;. Text is converted to numerical representations called tokens, and each token is converted into a vector via looking up from a word embedding table. At each layer, each token is then contextualized within the scope of the context window with other (unmasked) tokens via a parallel multi-head attention mechanism allowing the signal &lt;br /&gt;[200, G2, L2, PR]" />
+          <attvalue for="10" value="2" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="BERT (language model)" label="BERT (language model)">
+        <attvalues>
+          <attvalue for="0" value="BERT (language model)" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/BERT_(language_model)" />
+          <attvalue for="3" value="BERT_(language_model)" />
+          <attvalue for="4" value="BERT (language model)" />
+          <attvalue for="5" value="200" />
+          <attvalue for="6" value=" &#10;Bidirectional Encoder Representations from Transformers (BERT) is a language model based on the transformer architecture, notable for its dramatic improvement over previous state of the art models. It was introduced in October 2018 by researchers at Google. A 2020 literature survey concluded that &quot;in a little over a year, BERT has become a ubiquitous baseline in Natural Language Processing (NLP) experiments counting over 150 research publications analyzing and improving the model.&quot;" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="2" />
+          <attvalue for="9" value="2. &lt;a href='https://en.wikipedia.org/wiki/BERT_(language_model)' target='_blank'&gt;BERT (language model)&lt;/a&gt;&lt;br /&gt; &#10;Bidirectional Encoder Representations from Transformers (BERT) is a language model based on the transformer architecture, notable for its dramatic improvement over previous state of the art models. It was introduced in October 2018 by researchers at Google. A 2020 literature survey concluded that &quot;in a little over a year, BERT has become a ubiquitous baseline in Natural Language Processing (NLP) experiments counting over 150 research publications analyzing and improving the model.&quot;&lt;br /&gt;[200, G2, L2, PR]" />
+          <attvalue for="10" value="2" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="GPT-3" label="GPT-3">
+        <attvalues>
+          <attvalue for="0" value="GPT-3 (language model)" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/GPT-3" />
+          <attvalue for="3" value="GPT-3" />
+          <attvalue for="4" value="GPT-3" />
+          <attvalue for="5" value="200" />
+          <attvalue for="6" value="Generative Pre-trained Transformer 3 (GPT-3) is a large language model released by OpenAI in 2020. Like its predecessor, GPT-2, it is a decoder-only transformer model of deep neural network, which supersedes recurrence and convolution-based architectures with a technique known as &quot;attention&quot;. This attention mechanism allows the model to selectively focus on segments of input text it predicts to be most relevant. It uses a 2048-tokens-long context, float16 (16-bit) precision, and a hitherto-unpre" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="3" />
+          <attvalue for="9" value="3. &lt;a href='https://en.wikipedia.org/wiki/GPT-3' target='_blank'&gt;GPT-3&lt;/a&gt;&lt;br /&gt;Generative Pre-trained Transformer 3 (GPT-3) is a large language model released by OpenAI in 2020. Like its predecessor, GPT-2, it is a decoder-only transformer model of deep neural network, which supersedes recurrence and convolution-based architectures with a technique known as &quot;attention&quot;. This attention mechanism allows the model to selectively focus on segments of input text it predicts to be most relevant. It uses a 2048-tokens-long context, float16 (16-bit) precision, and a hitherto-unpre&lt;br /&gt;[200, G2, L2, PR]" />
+          <attvalue for="10" value="2" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="Natural language processing" label="Natural language processing">
+        <attvalues>
+          <attvalue for="0" value="Natural language processing" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/Natural_language_processing" />
+          <attvalue for="3" value="Natural_language_processing" />
+          <attvalue for="4" value="Natural language processing" />
+          <attvalue for="5" value="200" />
+          <attvalue for="6" value="Natural language processing (NLP) is an interdisciplinary subfield of computer science and information retrieval. It is primarily concerned with giving computers the ability to support and manipulate human language. It involves processing natural language datasets, such as text corpora or speech corpora, using either rule-based or probabilistic machine learning approaches. The goal is a computer capable of &quot;understanding&quot; the contents of documents, including the contextual nuances of the languag" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="4" />
+          <attvalue for="9" value="4. &lt;a href='https://en.wikipedia.org/wiki/Natural_language_processing' target='_blank'&gt;Natural language processing&lt;/a&gt;&lt;br /&gt;Natural language processing (NLP) is an interdisciplinary subfield of computer science and information retrieval. It is primarily concerned with giving computers the ability to support and manipulate human language. It involves processing natural language datasets, such as text corpora or speech corpora, using either rule-based or probabilistic machine learning approaches. The goal is a computer capable of &quot;understanding&quot; the contents of documents, including the contextual nuances of the languag&lt;br /&gt;[200, G2, L2, PR]" />
+          <attvalue for="10" value="2" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="Deep learning" label="Deep learning">
+        <attvalues>
+          <attvalue for="0" value="Deep learning" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/Deep_learning" />
+          <attvalue for="3" value="Deep_learning" />
+          <attvalue for="4" value="Deep learning" />
+          <attvalue for="5" value="200" />
+          <attvalue for="6" value="Deep learning is the subset of machine learning methods based on artificial neural networks (ANNs) with representation learning. The adjective &quot;deep&quot; refers to the use of multiple layers in the network. Methods used can be either supervised, semi-supervised or unsupervised." />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="5" />
+          <attvalue for="9" value="5. &lt;a href='https://en.wikipedia.org/wiki/Deep_learning' target='_blank'&gt;Deep learning&lt;/a&gt;&lt;br /&gt;Deep learning is the subset of machine learning methods based on artificial neural networks (ANNs) with representation learning. The adjective &quot;deep&quot; refers to the use of multiple layers in the network. Methods used can be either supervised, semi-supervised or unsupervised.&lt;br /&gt;[200, G2, L2, PR]" />
+          <attvalue for="10" value="2" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="Neural network" label="Neural network">
+        <attvalues>
+          <attvalue for="0" value="Neural Network" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/Neural_network" />
+          <attvalue for="3" value="Neural_network" />
+          <attvalue for="4" value="Neural network" />
+          <attvalue for="5" value="200" />
+          <attvalue for="6" value="A neural network is a group of interconnected units called neurons that send signals to one another. Neurons can be either biological cells or mathematical models. While individual neurons are simple, many of them together in a network can perform complex tasks. There are two main types of neural network.In neuroscience, a biological neural network is a physical structure found in brains and complex nervous systems – a population of nerve cells connected by synapses.&#10;In machine learning, an arti" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="6" />
+          <attvalue for="9" value="6. &lt;a href='https://en.wikipedia.org/wiki/Neural_network' target='_blank'&gt;Neural network&lt;/a&gt;&lt;br /&gt;A neural network is a group of interconnected units called neurons that send signals to one another. Neurons can be either biological cells or mathematical models. While individual neurons are simple, many of them together in a network can perform complex tasks. There are two main types of neural network.In neuroscience, a biological neural network is a physical structure found in brains and complex nervous systems – a population of nerve cells connected by synapses.&#10;In machine learning, an arti&lt;br /&gt;[200, G3, L3, PR]" />
+          <attvalue for="10" value="3" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="Recurrent neural network" label="Recurrent neural network">
+        <attvalues>
+          <attvalue for="0" value="Recurrent Neural Network (RNN)" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/Recurrent_neural_network" />
+          <attvalue for="3" value="Recurrent_neural_network" />
+          <attvalue for="4" value="Recurrent neural network" />
+          <attvalue for="5" value="200" />
+          <attvalue for="6" value="A recurrent neural network (RNN) is one of the two broad types of artificial neural network, characterized by direction of the flow of information between its layers. In contrast to the uni-directional feedforward neural network, it is a bi-directional artificial neural network, meaning that it allows the output from some nodes to affect subsequent input to the same nodes. Their ability to use internal state (memory) to process arbitrary sequences of inputs makes them applicable to tasks such as" />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="7" />
+          <attvalue for="9" value="7. &lt;a href='https://en.wikipedia.org/wiki/Recurrent_neural_network' target='_blank'&gt;Recurrent neural network&lt;/a&gt;&lt;br /&gt;A recurrent neural network (RNN) is one of the two broad types of artificial neural network, characterized by direction of the flow of information between its layers. In contrast to the uni-directional feedforward neural network, it is a bi-directional artificial neural network, meaning that it allows the output from some nodes to affect subsequent input to the same nodes. Their ability to use internal state (memory) to process arbitrary sequences of inputs makes them applicable to tasks such as&lt;br /&gt;[200, G3, L3, PR]" />
+          <attvalue for="10" value="3" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="GPT (language model)" label="GPT (language model)">
+        <attvalues>
+          <attvalue for="0" value="GPT (Generative Pre-trained Transformer)" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/GPT_(language_model)" />
+          <attvalue for="3" value="Generative_pre-trained_transformer" />
+          <attvalue for="4" value="Generative pre-trained transformer" />
+          <attvalue for="5" value="200" />
+          <attvalue for="6" value="Generative pre-trained transformers (GPT) are a type of large language model (LLM) and a prominent framework for generative artificial intelligence. They are artificial neural networks that are used in natural language processing tasks. GPTs are based on the transformer architecture, pre-trained on large data sets of unlabelled text, and able to generate novel human-like content. As of 2023, most LLMs have these characteristics and are sometimes referred to broadly as GPTs." />
+          <attvalue for="7" value="2" />
+          <attvalue for="8" value="8" />
+          <attvalue for="9" value="8. &lt;a href='https://en.wikipedia.org/wiki/GPT_(language_model)' target='_blank'&gt;GPT (language model)&lt;/a&gt; → &lt;a href='https://en.wikipedia.org/wiki/Generative_pre-trained_transformer' target='_blank'&gt;Generative pre-trained transformer&lt;/a&gt;&lt;br /&gt;Generative pre-trained transformers (GPT) are a type of large language model (LLM) and a prominent framework for generative artificial intelligence. They are artificial neural networks that are used in natural language processing tasks. GPTs are based on the transformer architecture, pre-trained on large data sets of unlabelled text, and able to generate novel human-like content. As of 2023, most LLMs have these characteristics and are sometimes referred to broadly as GPTs.&lt;br /&gt;[200, G3, L3, PR]" />
+          <attvalue for="10" value="3" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="Word2vec" label="Word2vec">
+        <attvalues>
+          <attvalue for="0" value="Word2Vec (word embedding model)" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/Word2vec" />
+          <attvalue for="3" value="Word2vec" />
+          <attvalue for="4" value="Word2vec" />
+          <attvalue for="5" value="200" />
+          <attvalue for="6" value="Word2vec is a technique in natural language processing (NLP) for obtaining vector representations of words. These vectors capture information about the meaning of the word based on the surrounding words. The word2vec algorithm estimates these representations by modeling text in a large corpus. Once trained, such a model can detect synonymous words or suggest additional words for a partial sentence. Word2vec was developed by Tomáš Mikolov and colleagues at Google and published in 2013." />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="9" />
+          <attvalue for="9" value="9. &lt;a href='https://en.wikipedia.org/wiki/Word2vec' target='_blank'&gt;Word2vec&lt;/a&gt;&lt;br /&gt;Word2vec is a technique in natural language processing (NLP) for obtaining vector representations of words. These vectors capture information about the meaning of the word based on the surrounding words. The word2vec algorithm estimates these representations by modeling text in a large corpus. Once trained, such a model can detect synonymous words or suggest additional words for a partial sentence. Word2vec was developed by Tomáš Mikolov and colleagues at Google and published in 2013.&lt;br /&gt;[200, G3, L3, UN]" />
+          <attvalue for="10" value="3" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="ELMo" label="ELMo">
+        <attvalues>
+          <attvalue for="0" value="ELMo (language model)" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/ELMo" />
+          <attvalue for="3" value="ELMo" />
+          <attvalue for="4" value="ELMo" />
+          <attvalue for="5" value="200" />
+          <attvalue for="6" value="ELMo is a word embedding method for representing a sequence of words as a corresponding sequence of vectors. Character-level tokens are taken as the inputs to a bidirectional LSTM which produces word-level embeddings. Like BERT, ELMo embeddings are context-sensitive, producing different representations for words that share the same spelling but have different meanings (homonyms) such as &quot;bank&quot; in &quot;river bank&quot; and &quot;bank balance&quot;." />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="10" />
+          <attvalue for="9" value="10. &lt;a href='https://en.wikipedia.org/wiki/ELMo' target='_blank'&gt;ELMo&lt;/a&gt;&lt;br /&gt;ELMo is a word embedding method for representing a sequence of words as a corresponding sequence of vectors. Character-level tokens are taken as the inputs to a bidirectional LSTM which produces word-level embeddings. Like BERT, ELMo embeddings are context-sensitive, producing different representations for words that share the same spelling but have different meanings (homonyms) such as &quot;bank&quot; in &quot;river bank&quot; and &quot;bank balance&quot;.&lt;br /&gt;[200, G3, L3, UN]" />
+          <attvalue for="10" value="3" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="FastText" label="FastText">
+        <attvalues>
+          <attvalue for="0" value="FastText (word embedding model)" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/FastText" />
+          <attvalue for="3" value="FastText" />
+          <attvalue for="4" value="FastText" />
+          <attvalue for="5" value="200" />
+          <attvalue for="6" value="fastText is a library for learning of word embeddings and text classification created by Facebook's AI Research (FAIR) lab. The model allows one to create an unsupervised learning or supervised learning algorithm for obtaining vector representations for words. Facebook makes available pretrained models for 294 languages. Several papers describe the techniques used by fastText." />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="11" />
+          <attvalue for="9" value="11. &lt;a href='https://en.wikipedia.org/wiki/FastText' target='_blank'&gt;FastText&lt;/a&gt;&lt;br /&gt;fastText is a library for learning of word embeddings and text classification created by Facebook's AI Research (FAIR) lab. The model allows one to create an unsupervised learning or supervised learning algorithm for obtaining vector representations for words. Facebook makes available pretrained models for 294 languages. Several papers describe the techniques used by fastText.&lt;br /&gt;[200, G3, L3, UN]" />
+          <attvalue for="10" value="3" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="GPT-2" label="GPT-2">
+        <attvalues>
+          <attvalue for="0" value="GPT-2" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/GPT-2" />
+          <attvalue for="3" value="GPT-2" />
+          <attvalue for="4" value="GPT-2" />
+          <attvalue for="5" value="200" />
+          <attvalue for="6" value="Generative Pre-trained Transformer 2 (GPT-2) is a large language model by OpenAI and the second in their foundational series of GPT models. GPT-2 was pre-trained a dataset of 8 million web pages. It was partially released in February 2019, followed by full release of the 1.5-billion-parameter model on November 5, 2019." />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="12" />
+          <attvalue for="9" value="12. &lt;a href='https://en.wikipedia.org/wiki/GPT-2' target='_blank'&gt;GPT-2&lt;/a&gt;&lt;br /&gt;Generative Pre-trained Transformer 2 (GPT-2) is a large language model by OpenAI and the second in their foundational series of GPT models. GPT-2 was pre-trained a dataset of 8 million web pages. It was partially released in February 2019, followed by full release of the 1.5-billion-parameter model on November 5, 2019.&lt;br /&gt;[200, G3, L3, UN]" />
+          <attvalue for="10" value="3" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="XLNet" label="XLNet">
+        <attvalues>
+          <attvalue for="0" value="XLNet" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/XLNet" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="" />
+          <attvalue for="5" value="404" />
+          <attvalue for="6" value="" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="13" />
+          <attvalue for="9" value="13. &lt;a href='https://en.wikipedia.org/wiki/XLNet' target='_blank'&gt;XLNet&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;[404, G500, L3, UN]" />
+          <attvalue for="10" value="500" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="T5 (text-to-text model)" label="T5 (text-to-text model)">
+        <attvalues>
+          <attvalue for="0" value="T5 (Text-to-Text Transfer Transformer)" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/T5_(text-to-text_model)" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="" />
+          <attvalue for="5" value="404" />
+          <attvalue for="6" value="" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="14" />
+          <attvalue for="9" value="14. &lt;a href='https://en.wikipedia.org/wiki/T5_(text-to-text_model)' target='_blank'&gt;T5 (text-to-text model)&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;[404, G500, L3, UN]" />
+          <attvalue for="10" value="500" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="RoBERTa" label="RoBERTa">
+        <attvalues>
+          <attvalue for="0" value="RoBERTa" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/RoBERTa" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="" />
+          <attvalue for="5" value="404" />
+          <attvalue for="6" value="" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="15" />
+          <attvalue for="9" value="15. &lt;a href='https://en.wikipedia.org/wiki/RoBERTa' target='_blank'&gt;RoBERTa&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;[404, G500, L3, UN]" />
+          <attvalue for="10" value="500" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="Machine learning" label="Machine learning">
+        <attvalues>
+          <attvalue for="0" value="Machine learning" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/Machine_learning" />
+          <attvalue for="3" value="Machine_learning" />
+          <attvalue for="4" value="Machine learning" />
+          <attvalue for="5" value="200" />
+          <attvalue for="6" value="Machine learning (ML) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data, and thus perform tasks without explicit instructions. Recently, artificial neural networks have been able to surpass many previous approaches in performance." />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="16" />
+          <attvalue for="9" value="16. &lt;a href='https://en.wikipedia.org/wiki/Machine_learning' target='_blank'&gt;Machine learning&lt;/a&gt;&lt;br /&gt;Machine learning (ML) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data, and thus perform tasks without explicit instructions. Recently, artificial neural networks have been able to surpass many previous approaches in performance.&lt;br /&gt;[200, G3, L3, UN]" />
+          <attvalue for="10" value="3" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="Computational linguistics" label="Computational linguistics">
+        <attvalues>
+          <attvalue for="0" value="Computational linguistics" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/Computational_linguistics" />
+          <attvalue for="3" value="Computational_linguistics" />
+          <attvalue for="4" value="Computational linguistics" />
+          <attvalue for="5" value="200" />
+          <attvalue for="6" value="Computational linguistics is an interdisciplinary field concerned with the computational modelling of natural language, as well as the study of appropriate computational approaches to linguistic questions. In general, computational linguistics draws upon linguistics, computer science, artificial intelligence, mathematics, logic, philosophy, cognitive science, cognitive psychology, psycholinguistics, anthropology and neuroscience, among others." />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="17" />
+          <attvalue for="9" value="17. &lt;a href='https://en.wikipedia.org/wiki/Computational_linguistics' target='_blank'&gt;Computational linguistics&lt;/a&gt;&lt;br /&gt;Computational linguistics is an interdisciplinary field concerned with the computational modelling of natural language, as well as the study of appropriate computational approaches to linguistic questions. In general, computational linguistics draws upon linguistics, computer science, artificial intelligence, mathematics, logic, philosophy, cognitive science, cognitive psychology, psycholinguistics, anthropology and neuroscience, among others.&lt;br /&gt;[200, G3, L3, UN]" />
+          <attvalue for="10" value="3" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="Text mining" label="Text mining">
+        <attvalues>
+          <attvalue for="0" value="Text mining" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/Text_mining" />
+          <attvalue for="3" value="Text_mining" />
+          <attvalue for="4" value="Text mining" />
+          <attvalue for="5" value="200" />
+          <attvalue for="6" value="Text mining, text data mining (TDM) or text analytics is the process of deriving high-quality information from text. It involves &quot;the discovery by computer of new, previously unknown information, by automatically extracting information from different written resources.&quot; Written resources may include websites, books, emails, reviews, and articles. High-quality information is typically obtained by devising patterns and trends by means such as statistical pattern learning. According to Hotho et al." />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="18" />
+          <attvalue for="9" value="18. &lt;a href='https://en.wikipedia.org/wiki/Text_mining' target='_blank'&gt;Text mining&lt;/a&gt;&lt;br /&gt;Text mining, text data mining (TDM) or text analytics is the process of deriving high-quality information from text. It involves &quot;the discovery by computer of new, previously unknown information, by automatically extracting information from different written resources.&quot; Written resources may include websites, books, emails, reviews, and articles. High-quality information is typically obtained by devising patterns and trends by means such as statistical pattern learning. According to Hotho et al.&lt;br /&gt;[200, G3, L3, UN]" />
+          <attvalue for="10" value="3" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="Information retrieval" label="Information retrieval">
+        <attvalues>
+          <attvalue for="0" value="Information retrieval" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/Information_retrieval" />
+          <attvalue for="3" value="Information_retrieval" />
+          <attvalue for="4" value="Information retrieval" />
+          <attvalue for="5" value="200" />
+          <attvalue for="6" value="Information retrieval (IR) in computing and information science is the task of identifying and retrieving information system resources that are relevant to an information need. The information need can be specified in the form of a search query. In the case of document retrieval, queries can be based on full-text or other content-based indexing. Information retrieval is the science of searching for information in a document, searching for documents themselves, and also searching for the metadata" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="19" />
+          <attvalue for="9" value="19. &lt;a href='https://en.wikipedia.org/wiki/Information_retrieval' target='_blank'&gt;Information retrieval&lt;/a&gt;&lt;br /&gt;Information retrieval (IR) in computing and information science is the task of identifying and retrieving information system resources that are relevant to an information need. The information need can be specified in the form of a search query. In the case of document retrieval, queries can be based on full-text or other content-based indexing. Information retrieval is the science of searching for information in a document, searching for documents themselves, and also searching for the metadata&lt;br /&gt;[200, G3, L3, UN]" />
+          <attvalue for="10" value="3" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="Semantic analysis" label="Semantic analysis">
+        <attvalues>
+          <attvalue for="0" value="Semantic analysis" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/Semantic_analysis" />
+          <attvalue for="3" value="Semantic_analysis" />
+          <attvalue for="4" value="Semantic analysis" />
+          <attvalue for="5" value="200" />
+          <attvalue for="6" value="Semantic analysis may refer to:" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="20" />
+          <attvalue for="9" value="20. &lt;a href='https://en.wikipedia.org/wiki/Semantic_analysis' target='_blank'&gt;Semantic analysis&lt;/a&gt;&lt;br /&gt;Semantic analysis may refer to:&lt;br /&gt;[200, G3, L3, UN]" />
+          <attvalue for="10" value="3" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="Artificial neural network" label="Artificial neural network">
+        <attvalues>
+          <attvalue for="0" value="Neural networks" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/Artificial_neural_network" />
+          <attvalue for="3" value="Neural_network_(machine_learning)" />
+          <attvalue for="4" value="Neural network (machine learning)" />
+          <attvalue for="5" value="200" />
+          <attvalue for="6" value="In machine learning, a neural network is a model inspired by the neuronal organization found in the biological neural networks in animal brains." />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="21" />
+          <attvalue for="9" value="21. &lt;a href='https://en.wikipedia.org/wiki/Artificial_neural_network' target='_blank'&gt;Artificial neural network&lt;/a&gt; → &lt;a href='https://en.wikipedia.org/wiki/Neural_network_(machine_learning)' target='_blank'&gt;Neural network (machine learning)&lt;/a&gt;&lt;br /&gt;In machine learning, a neural network is a model inspired by the neuronal organization found in the biological neural networks in animal brains.&lt;br /&gt;[200, G3, L3, UN]" />
+          <attvalue for="10" value="3" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="Artificial intelligence" label="Artificial intelligence">
+        <attvalues>
+          <attvalue for="0" value="Artificial intelligence" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/Artificial_intelligence" />
+          <attvalue for="3" value="Artificial_intelligence" />
+          <attvalue for="4" value="Artificial intelligence" />
+          <attvalue for="5" value="200" />
+          <attvalue for="6" value="Artificial intelligence (AI), in its broadest sense, is intelligence exhibited by machines, particularly computer systems. It is a field of research in computer science that develops and studies methods and software which enable machines to perceive their environment and uses learning and intelligence to take actions that maximize their chances of achieving defined goals. Such machines may be called AIs." />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="22" />
+          <attvalue for="9" value="22. &lt;a href='https://en.wikipedia.org/wiki/Artificial_intelligence' target='_blank'&gt;Artificial intelligence&lt;/a&gt;&lt;br /&gt;Artificial intelligence (AI), in its broadest sense, is intelligence exhibited by machines, particularly computer systems. It is a field of research in computer science that develops and studies methods and software which enable machines to perceive their environment and uses learning and intelligence to take actions that maximize their chances of achieving defined goals. Such machines may be called AIs.&lt;br /&gt;[200, G3, L3, UN]" />
+          <attvalue for="10" value="3" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="Computer vision" label="Computer vision">
+        <attvalues>
+          <attvalue for="0" value="Computer vision" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/Computer_vision" />
+          <attvalue for="3" value="Computer_vision" />
+          <attvalue for="4" value="Computer vision" />
+          <attvalue for="5" value="200" />
+          <attvalue for="6" value="Computer vision tasks include methods for acquiring, processing, analyzing and understanding digital images, and extraction of high-dimensional data from the real world in order to produce numerical or symbolic information, e.g. in the forms of decisions. Understanding in this context means the transformation of visual images into descriptions of the world that make sense to thought processes and can elicit appropriate action. This image understanding can be seen as the disentangling of symbolic" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="23" />
+          <attvalue for="9" value="23. &lt;a href='https://en.wikipedia.org/wiki/Computer_vision' target='_blank'&gt;Computer vision&lt;/a&gt;&lt;br /&gt;Computer vision tasks include methods for acquiring, processing, analyzing and understanding digital images, and extraction of high-dimensional data from the real world in order to produce numerical or symbolic information, e.g. in the forms of decisions. Understanding in this context means the transformation of visual images into descriptions of the world that make sense to thought processes and can elicit appropriate action. This image understanding can be seen as the disentangling of symbolic&lt;br /&gt;[200, G3, L3, UN]" />
+          <attvalue for="10" value="3" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="Convolutional neural network" label="Convolutional neural network">
+        <attvalues>
+          <attvalue for="0" value="Convolutional neural network" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/Convolutional_neural_network" />
+          <attvalue for="3" value="Convolutional_neural_network" />
+          <attvalue for="4" value="Convolutional neural network" />
+          <attvalue for="5" value="200" />
+          <attvalue for="6" value="Convolutional neural network (CNN) is a regularized type of feed-forward neural network that learns feature engineering by itself via filters optimization. Vanishing gradients and exploding gradients, seen during backpropagation in earlier neural networks, are prevented by using regularized weights over fewer connections. For example, for each neuron in the fully-connected layer 10,000 weights would be required for processing an image sized 100 × 100 pixels. However, applying cascaded convolutio" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="24" />
+          <attvalue for="9" value="24. &lt;a href='https://en.wikipedia.org/wiki/Convolutional_neural_network' target='_blank'&gt;Convolutional neural network&lt;/a&gt;&lt;br /&gt;Convolutional neural network (CNN) is a regularized type of feed-forward neural network that learns feature engineering by itself via filters optimization. Vanishing gradients and exploding gradients, seen during backpropagation in earlier neural networks, are prevented by using regularized weights over fewer connections. For example, for each neuron in the fully-connected layer 10,000 weights would be required for processing an image sized 100 × 100 pixels. However, applying cascaded convolutio&lt;br /&gt;[200, G4, L4, UN]" />
+          <attvalue for="10" value="4" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="Long short-term memory" label="Long short-term memory">
+        <attvalues>
+          <attvalue for="0" value="Long short-term memory" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/Long_short-term_memory" />
+          <attvalue for="3" value="Long_short-term_memory" />
+          <attvalue for="4" value="Long short-term memory" />
+          <attvalue for="5" value="200" />
+          <attvalue for="6" value="Long short-term memory (LSTM) network is a recurrent neural network (RNN), aimed at dealing with the vanishing gradient problem present in traditional RNNs. Its relative insensitivity to gap length is its advantage over other RNNs, hidden Markov models and other sequence learning methods. It aims to provide a short-term memory for RNN that can last thousands of timesteps, thus &quot;long short-term memory&quot;. It is applicable to classification, processing and predicting data based on time series, such " />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="25" />
+          <attvalue for="9" value="25. &lt;a href='https://en.wikipedia.org/wiki/Long_short-term_memory' target='_blank'&gt;Long short-term memory&lt;/a&gt;&lt;br /&gt;Long short-term memory (LSTM) network is a recurrent neural network (RNN), aimed at dealing with the vanishing gradient problem present in traditional RNNs. Its relative insensitivity to gap length is its advantage over other RNNs, hidden Markov models and other sequence learning methods. It aims to provide a short-term memory for RNN that can last thousands of timesteps, thus &quot;long short-term memory&quot;. It is applicable to classification, processing and predicting data based on time series, such &lt;br /&gt;[200, G4, L4, UN]" />
+          <attvalue for="10" value="4" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="Gated recurrent unit" label="Gated recurrent unit">
+        <attvalues>
+          <attvalue for="0" value="Gated recurrent unit" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/Gated_recurrent_unit" />
+          <attvalue for="3" value="Gated_recurrent_unit" />
+          <attvalue for="4" value="Gated recurrent unit" />
+          <attvalue for="5" value="200" />
+          <attvalue for="6" value="Gated recurrent units (GRUs) are a gating mechanism in recurrent neural networks, introduced in 2014 by Kyunghyun Cho et al. The GRU is like a long short-term memory (LSTM) with a gating mechanism to input or forget certain features, but lacks a context vector or output gate, resulting in fewer parameters than LSTM. &#10;GRU's performance on certain tasks of polyphonic music modeling, speech signal modeling and natural language processing was found to be similar to that of LSTM. GRUs showed that gat" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="26" />
+          <attvalue for="9" value="26. &lt;a href='https://en.wikipedia.org/wiki/Gated_recurrent_unit' target='_blank'&gt;Gated recurrent unit&lt;/a&gt;&lt;br /&gt;Gated recurrent units (GRUs) are a gating mechanism in recurrent neural networks, introduced in 2014 by Kyunghyun Cho et al. The GRU is like a long short-term memory (LSTM) with a gating mechanism to input or forget certain features, but lacks a context vector or output gate, resulting in fewer parameters than LSTM. &#10;GRU's performance on certain tasks of polyphonic music modeling, speech signal modeling and natural language processing was found to be similar to that of LSTM. GRUs showed that gat&lt;br /&gt;[200, G4, L4, UN]" />
+          <attvalue for="10" value="4" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="Sequence model" label="Sequence model">
+        <attvalues>
+          <attvalue for="0" value="Sequence modeling" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/Sequence_model" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="" />
+          <attvalue for="5" value="404" />
+          <attvalue for="6" value="" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="27" />
+          <attvalue for="9" value="27. &lt;a href='https://en.wikipedia.org/wiki/Sequence_model' target='_blank'&gt;Sequence model&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;[404, G500, L4, UN]" />
+          <attvalue for="10" value="500" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="Backpropagation through time" label="Backpropagation through time">
+        <attvalues>
+          <attvalue for="0" value="Backpropagation through time" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/Backpropagation_through_time" />
+          <attvalue for="3" value="Backpropagation_through_time" />
+          <attvalue for="4" value="Backpropagation through time" />
+          <attvalue for="5" value="200" />
+          <attvalue for="6" value="Backpropagation through time (BPTT) is a gradient-based technique for training certain types of recurrent neural networks. It can be used to train Elman networks. The algorithm was independently derived by numerous researchers." />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="28" />
+          <attvalue for="9" value="28. &lt;a href='https://en.wikipedia.org/wiki/Backpropagation_through_time' target='_blank'&gt;Backpropagation through time&lt;/a&gt;&lt;br /&gt;Backpropagation through time (BPTT) is a gradient-based technique for training certain types of recurrent neural networks. It can be used to train Elman networks. The algorithm was independently derived by numerous researchers.&lt;br /&gt;[200, G4, L4, UN]" />
+          <attvalue for="10" value="4" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="Vanishing gradient problem" label="Vanishing gradient problem">
+        <attvalues>
+          <attvalue for="0" value="Vanishing gradient problem" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/Vanishing_gradient_problem" />
+          <attvalue for="3" value="Vanishing_gradient_problem" />
+          <attvalue for="4" value="Vanishing gradient problem" />
+          <attvalue for="5" value="200" />
+          <attvalue for="6" value="In machine learning, the vanishing gradient problem is encountered when training recurrent neural networks with gradient-based learning methods and backpropagation. In such methods, during each iteration of training each of the neural networks weights receives an update proportional to the partial derivative of the error function with respect to the current weight. The problem is that as the sequence length increases, the gradient magnitude typically is expected to decrease, slowing the training" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="29" />
+          <attvalue for="9" value="29. &lt;a href='https://en.wikipedia.org/wiki/Vanishing_gradient_problem' target='_blank'&gt;Vanishing gradient problem&lt;/a&gt;&lt;br /&gt;In machine learning, the vanishing gradient problem is encountered when training recurrent neural networks with gradient-based learning methods and backpropagation. In such methods, during each iteration of training each of the neural networks weights receives an update proportional to the partial derivative of the error function with respect to the current weight. The problem is that as the sequence length increases, the gradient magnitude typically is expected to decrease, slowing the training&lt;br /&gt;[200, G4, L4, UN]" />
+          <attvalue for="10" value="4" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="ELMo (language model)" label="ELMo (language model)">
+        <attvalues>
+          <attvalue for="0" value="ELMo (language model)" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/ELMo_(language_model)" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="" />
+          <attvalue for="5" value="404" />
+          <attvalue for="6" value="" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="30" />
+          <attvalue for="9" value="30. &lt;a href='https://en.wikipedia.org/wiki/ELMo_(language_model)' target='_blank'&gt;ELMo (language model)&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;[404, G500, L4, UN]" />
+          <attvalue for="10" value="500" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="XLNet (language model)" label="XLNet (language model)">
+        <attvalues>
+          <attvalue for="0" value="XLNet (language model)" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/XLNet_(language_model)" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="" />
+          <attvalue for="5" value="404" />
+          <attvalue for="6" value="" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="31" />
+          <attvalue for="9" value="31. &lt;a href='https://en.wikipedia.org/wiki/XLNet_(language_model)' target='_blank'&gt;XLNet (language model)&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;[404, G500, L4, UN]" />
+          <attvalue for="10" value="500" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+      <node id="RoBERTa (language model)" label="RoBERTa (language model)">
+        <attvalues>
+          <attvalue for="0" value="RoBERTa (language model)" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="https://en.wikipedia.org/wiki/RoBERTa_(language_model)" />
+          <attvalue for="3" value="" />
+          <attvalue for="4" value="" />
+          <attvalue for="5" value="404" />
+          <attvalue for="6" value="" />
+          <attvalue for="7" value="0" />
+          <attvalue for="8" value="32" />
+          <attvalue for="9" value="32. &lt;a href='https://en.wikipedia.org/wiki/RoBERTa_(language_model)' target='_blank'&gt;RoBERTa (language model)&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;[404, G500, L4, UN]" />
+          <attvalue for="10" value="500" />
+          <attvalue for="11" value="10" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Large language model" target="Transformer (machine learning model)" id="0">
+        <attvalues>
+          <attvalue for="12" value="0.9" />
+          <attvalue for="13" value="Both Large Language Models and Transformers are types of machine learning models that have gained significant attention in the field of natural language processing." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Large language model" target="BERT (language model)" id="1">
+        <attvalues>
+          <attvalue for="12" value="0.85" />
+          <attvalue for="13" value="BERT is a specific large language model that has been widely used and studied in natural language processing tasks." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Large language model" target="GPT-3" id="2">
+        <attvalues>
+          <attvalue for="12" value="0.85" />
+          <attvalue for="13" value="GPT-3 is another example of a large language model that has been developed by OpenAI and has shown impressive capabilities in generating human-like text." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Large language model" target="Natural language processing" id="3">
+        <attvalues>
+          <attvalue for="12" value="0.8" />
+          <attvalue for="13" value="Large language models are often used in natural language processing tasks such as text generation, translation, and sentiment analysis." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Large language model" target="Deep learning" id="4">
+        <attvalues>
+          <attvalue for="12" value="0.75" />
+          <attvalue for="13" value="Large language models like GPT-3 and BERT are built using deep learning techniques, specifically neural networks with many layers." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Transformer (machine learning model)" target="Neural network" id="5">
+        <attvalues>
+          <attvalue for="12" value="0.9" />
+          <attvalue for="13" value="Both are machine learning models that involve learning from data and making predictions." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Transformer (machine learning model)" target="Deep learning" id="6">
+        <attvalues>
+          <attvalue for="12" value="0.85" />
+          <attvalue for="13" value="Both involve complex neural network architectures and are used for various machine learning tasks." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Transformer (machine learning model)" target="Recurrent neural network" id="7">
+        <attvalues>
+          <attvalue for="12" value="0.8" />
+          <attvalue for="13" value="RNNs are a type of neural network that can process sequential data, similar to how Transformers can handle sequences." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Transformer (machine learning model)" target="BERT (language model)" id="8">
+        <attvalues>
+          <attvalue for="12" value="0.75" />
+          <attvalue for="13" value="BERT is a transformer-based language model that has gained popularity for various natural language processing tasks." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Transformer (machine learning model)" target="GPT (language model)" id="9">
+        <attvalues>
+          <attvalue for="12" value="0.7" />
+          <attvalue for="13" value="GPT is another example of a transformer-based language model known for its generative capabilities." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="BERT (language model)" target="GPT-3" id="10">
+        <attvalues>
+          <attvalue for="12" value="0.9" />
+          <attvalue for="13" value="Both BERT and GPT-3 are state-of-the-art language models that use deep learning techniques for natural language processing tasks." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="BERT (language model)" target="Word2vec" id="11">
+        <attvalues>
+          <attvalue for="12" value="0.8" />
+          <attvalue for="13" value="Word2Vec and BERT are both models used in natural language processing, with Word2Vec focusing on word embeddings while BERT is a contextual language model." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="BERT (language model)" target="ELMo" id="12">
+        <attvalues>
+          <attvalue for="12" value="0.85" />
+          <attvalue for="13" value="ELMo, like BERT, is a contextual language model that captures word meaning based on the context in which the word appears." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="BERT (language model)" target="Transformer (machine learning model)" id="13">
+        <attvalues>
+          <attvalue for="12" value="0.95" />
+          <attvalue for="13" value="Both BERT and Transformer are based on the transformer architecture, which has been highly successful in natural language processing tasks." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="BERT (language model)" target="FastText" id="14">
+        <attvalues>
+          <attvalue for="12" value="0.75" />
+          <attvalue for="13" value="FastText, like BERT, is a model used for word embeddings and text classification tasks, although BERT is more focused on contextual understanding." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="GPT-3" target="GPT-2" id="15">
+        <attvalues>
+          <attvalue for="12" value="0.9" />
+          <attvalue for="13" value="Both are language models developed by OpenAI, with GPT-3 being a more advanced version of GPT-2." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="GPT-3" target="BERT (language model)" id="16">
+        <attvalues>
+          <attvalue for="12" value="0.8" />
+          <attvalue for="13" value="BERT is another popular language model that uses transformer architecture like GPT-3." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="GPT-3" target="XLNet" id="17">
+        <attvalues>
+          <attvalue for="12" value="0.7" />
+          <attvalue for="13" value="XLNet is a language model that also utilizes transformer architecture and has similarities in its approach to language understanding." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="GPT-3" target="T5 (text-to-text model)" id="18">
+        <attvalues>
+          <attvalue for="12" value="0.85" />
+          <attvalue for="13" value="T5 is a versatile language model that can perform a wide range of NLP tasks, similar to the capabilities of GPT-3." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="GPT-3" target="RoBERTa" id="19">
+        <attvalues>
+          <attvalue for="12" value="0.75" />
+          <attvalue for="13" value="RoBERTa is a variant of BERT that has been optimized for better performance, similar to the advancements seen in GPT-3." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Natural language processing" target="Machine learning" id="20">
+        <attvalues>
+          <attvalue for="12" value="0.9" />
+          <attvalue for="13" value="Both are subfields of artificial intelligence and often used together in NLP applications." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Natural language processing" target="Computational linguistics" id="21">
+        <attvalues>
+          <attvalue for="12" value="0.8" />
+          <attvalue for="13" value="Both fields involve the study of language and its computational aspects." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Natural language processing" target="Text mining" id="22">
+        <attvalues>
+          <attvalue for="12" value="0.7" />
+          <attvalue for="13" value="Text mining is closely related to NLP as it involves extracting useful information from text." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Natural language processing" target="Information retrieval" id="23">
+        <attvalues>
+          <attvalue for="12" value="0.6" />
+          <attvalue for="13" value="Both fields deal with accessing and retrieving information from large datasets, often involving text." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Natural language processing" target="Semantic analysis" id="24">
+        <attvalues>
+          <attvalue for="12" value="0.8" />
+          <attvalue for="13" value="Semantic analysis is a key component of NLP, focusing on understanding the meaning of text." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Deep learning" target="Machine learning" id="25">
+        <attvalues>
+          <attvalue for="12" value="0.9" />
+          <attvalue for="13" value="Both deep learning and machine learning are subfields of artificial intelligence that involve training algorithms to learn patterns from data." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Deep learning" target="Artificial neural network" id="26">
+        <attvalues>
+          <attvalue for="12" value="0.85" />
+          <attvalue for="13" value="Deep learning heavily relies on neural networks, especially deep neural networks, for learning representations from data." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Deep learning" target="Artificial intelligence" id="27">
+        <attvalues>
+          <attvalue for="12" value="0.8" />
+          <attvalue for="13" value="Deep learning is a subset of artificial intelligence that focuses on learning representations of data through neural networks." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Deep learning" target="Computer vision" id="28">
+        <attvalues>
+          <attvalue for="12" value="0.75" />
+          <attvalue for="13" value="Deep learning has been widely used in computer vision tasks such as image recognition and object detection." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Deep learning" target="Natural language processing" id="29">
+        <attvalues>
+          <attvalue for="12" value="0.7" />
+          <attvalue for="13" value="Deep learning has shown significant advancements in natural language processing tasks like language translation and sentiment analysis." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Neural network" target="Artificial neural network" id="30">
+        <attvalues>
+          <attvalue for="12" value="0.95" />
+          <attvalue for="13" value="Both are types of neural networks used in machine learning and artificial intelligence." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Neural network" target="Deep learning" id="31">
+        <attvalues>
+          <attvalue for="12" value="0.85" />
+          <attvalue for="13" value="Deep learning often involves neural networks with multiple layers for learning representations." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Neural network" target="Recurrent neural network" id="32">
+        <attvalues>
+          <attvalue for="12" value="0.8" />
+          <attvalue for="13" value="Both are types of neural networks that have connections feeding back into themselves." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Neural network" target="Convolutional neural network" id="33">
+        <attvalues>
+          <attvalue for="12" value="0.75" />
+          <attvalue for="13" value="Both are types of neural networks commonly used in image recognition and processing." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Neural network" target="Machine learning" id="34">
+        <attvalues>
+          <attvalue for="12" value="0.7" />
+          <attvalue for="13" value="Neural networks are often used as models in machine learning tasks." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Recurrent neural network" target="Long short-term memory" id="35">
+        <attvalues>
+          <attvalue for="12" value="0.9" />
+          <attvalue for="13" value="Both are types of recurrent neural networks designed to address the vanishing gradient problem and capture long-term dependencies." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Recurrent neural network" target="Gated recurrent unit" id="36">
+        <attvalues>
+          <attvalue for="12" value="0.85" />
+          <attvalue for="13" value="Similar to LSTM, GRU is another type of recurrent neural network that addresses the vanishing gradient problem and is used for sequence modeling." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Recurrent neural network" target="Sequence model" id="37">
+        <attvalues>
+          <attvalue for="12" value="0.8" />
+          <attvalue for="13" value="Both recurrent neural networks and sequence modeling are used for tasks involving sequential data such as time series analysis, natural language processing, and speech recognition." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Recurrent neural network" target="Backpropagation through time" id="38">
+        <attvalues>
+          <attvalue for="12" value="0.75" />
+          <attvalue for="13" value="Both concepts involve training recurrent neural networks by unfolding them over time and applying backpropagation to update the weights." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Recurrent neural network" target="Vanishing gradient problem" id="39">
+        <attvalues>
+          <attvalue for="12" value="0.7" />
+          <attvalue for="13" value="Both concepts are related as recurrent neural networks like RNNs and LSTMs face the vanishing gradient problem during training." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="GPT (language model)" target="BERT (language model)" id="40">
+        <attvalues>
+          <attvalue for="12" value="0.9" />
+          <attvalue for="13" value="Both GPT and BERT are popular language models used in natural language processing tasks." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="GPT (language model)" target="Transformer (machine learning model)" id="41">
+        <attvalues>
+          <attvalue for="12" value="0.8" />
+          <attvalue for="13" value="GPT is based on the Transformer architecture, which is also used in other language models." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="GPT (language model)" target="ELMo (language model)" id="42">
+        <attvalues>
+          <attvalue for="12" value="0.7" />
+          <attvalue for="13" value="ELMo is another popular language model that shares similarities with GPT in terms of natural language processing." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="GPT (language model)" target="XLNet (language model)" id="43">
+        <attvalues>
+          <attvalue for="12" value="0.8" />
+          <attvalue for="13" value="XLNet is a language model that, like GPT, is based on the Transformer architecture and used in various NLP tasks." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="GPT (language model)" target="RoBERTa (language model)" id="44">
+        <attvalues>
+          <attvalue for="12" value="0.85" />
+          <attvalue for="13" value="RoBERTa is a variant of BERT and shares similarities with GPT in terms of being a powerful language model." />
+          <attvalue for="14" value="1" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

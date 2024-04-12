@@ -1,0 +1,747 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d15" for="edge" attr.name="width" attr.type="long" />
+  <key id="d14" for="edge" attr.name="reason" attr.type="string" />
+  <key id="d13" for="edge" attr.name="similarity" attr.type="double" />
+  <key id="d12" for="node" attr.name="size" attr.type="long" />
+  <key id="d11" for="node" attr.name="group" attr.type="long" />
+  <key id="d10" for="node" attr.name="title" attr.type="string" />
+  <key id="d9" for="node" attr.name="label" attr.type="string" />
+  <key id="d8" for="node" attr.name="node_count" attr.type="long" />
+  <key id="d7" for="node" attr.name="processed" attr.type="long" />
+  <key id="d6" for="node" attr.name="wikipedia_content" attr.type="string" />
+  <key id="d5" for="node" attr.name="wikipedia_resp_code" attr.type="long" />
+  <key id="d4" for="node" attr.name="wikipedia_normalized" attr.type="string" />
+  <key id="d3" for="node" attr.name="wikipedia_canonical" attr.type="string" />
+  <key id="d2" for="node" attr.name="wikipedia_link" attr.type="string" />
+  <key id="d1" for="node" attr.name="level" attr.type="long" />
+  <key id="d0" for="node" attr.name="name" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="Large language model">
+      <data key="d0">Large language model</data>
+      <data key="d1">1</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Large_language_model</data>
+      <data key="d3">Large_language_model</data>
+      <data key="d4">Large language model</data>
+      <data key="d5">200</data>
+      <data key="d6">A large language model (LLM) is a language model notable for its ability to achieve general-purpose language generation and other natural language processing tasks such as classification. LLMs acquire these abilities by learning statistical relationships from text documents during a computationally intensive self-supervised and semi-supervised training process. LLMs can be used for text generation, a form of generative AI, by taking an input text and repeatedly predicting the next token or word.</data>
+      <data key="d7">2</data>
+      <data key="d8">0</data>
+      <data key="d9">Large language model</data>
+      <data key="d10">0. &lt;a href='https://en.wikipedia.org/wiki/Large_language_model' target='_blank'&gt;Large language model&lt;/a&gt;&lt;br /&gt;A large language model (LLM) is a language model notable for its ability to achieve general-purpose language generation and other natural language processing tasks such as classification. LLMs acquire these abilities by learning statistical relationships from text documents during a computationally intensive self-supervised and semi-supervised training process. LLMs can be used for text generation, a form of generative AI, by taking an input text and repeatedly predicting the next token or word.&lt;br /&gt;[200, G1, L1, PR]</data>
+      <data key="d11">1</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Transformer (machine learning model)">
+      <data key="d0">Transformer (machine learning model)</data>
+      <data key="d1">2</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)</data>
+      <data key="d3">Transformer_(deep_learning_architecture)</data>
+      <data key="d4">Transformer (deep learning architecture)</data>
+      <data key="d5">200</data>
+      <data key="d6">A transformer is a deep learning architecture developed by Google and based on the multi-head attention mechanism, proposed in a 2017 paper "Attention Is All You Need". Text is converted to numerical representations called tokens, and each token is converted into a vector via looking up from a word embedding table. At each layer, each token is then contextualized within the scope of the context window with other (unmasked) tokens via a parallel multi-head attention mechanism allowing the signal </data>
+      <data key="d7">2</data>
+      <data key="d8">1</data>
+      <data key="d9">Transformer (machine learning model)</data>
+      <data key="d10">1. &lt;a href='https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)' target='_blank'&gt;Transformer (machine learning model)&lt;/a&gt; → &lt;a href='https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)' target='_blank'&gt;Transformer (deep learning architecture)&lt;/a&gt;&lt;br /&gt;A transformer is a deep learning architecture developed by Google and based on the multi-head attention mechanism, proposed in a 2017 paper "Attention Is All You Need". Text is converted to numerical representations called tokens, and each token is converted into a vector via looking up from a word embedding table. At each layer, each token is then contextualized within the scope of the context window with other (unmasked) tokens via a parallel multi-head attention mechanism allowing the signal &lt;br /&gt;[200, G2, L2, PR]</data>
+      <data key="d11">2</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="BERT (language model)">
+      <data key="d0">BERT (language model)</data>
+      <data key="d1">2</data>
+      <data key="d2">https://en.wikipedia.org/wiki/BERT_(language_model)</data>
+      <data key="d3">BERT_(language_model)</data>
+      <data key="d4">BERT (language model)</data>
+      <data key="d5">200</data>
+      <data key="d6"> 
+Bidirectional Encoder Representations from Transformers (BERT) is a language model based on the transformer architecture, notable for its dramatic improvement over previous state of the art models. It was introduced in October 2018 by researchers at Google. A 2020 literature survey concluded that "in a little over a year, BERT has become a ubiquitous baseline in Natural Language Processing (NLP) experiments counting over 150 research publications analyzing and improving the model."</data>
+      <data key="d7">2</data>
+      <data key="d8">2</data>
+      <data key="d9">BERT (language model)</data>
+      <data key="d10">2. &lt;a href='https://en.wikipedia.org/wiki/BERT_(language_model)' target='_blank'&gt;BERT (language model)&lt;/a&gt;&lt;br /&gt; 
+Bidirectional Encoder Representations from Transformers (BERT) is a language model based on the transformer architecture, notable for its dramatic improvement over previous state of the art models. It was introduced in October 2018 by researchers at Google. A 2020 literature survey concluded that "in a little over a year, BERT has become a ubiquitous baseline in Natural Language Processing (NLP) experiments counting over 150 research publications analyzing and improving the model."&lt;br /&gt;[200, G2, L2, PR]</data>
+      <data key="d11">2</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="GPT-3">
+      <data key="d0">GPT-3 (language model)</data>
+      <data key="d1">2</data>
+      <data key="d2">https://en.wikipedia.org/wiki/GPT-3</data>
+      <data key="d3">GPT-3</data>
+      <data key="d4">GPT-3</data>
+      <data key="d5">200</data>
+      <data key="d6">Generative Pre-trained Transformer 3 (GPT-3) is a large language model released by OpenAI in 2020. Like its predecessor, GPT-2, it is a decoder-only transformer model of deep neural network, which supersedes recurrence and convolution-based architectures with a technique known as "attention". This attention mechanism allows the model to selectively focus on segments of input text it predicts to be most relevant. It uses a 2048-tokens-long context, float16 (16-bit) precision, and a hitherto-unpre</data>
+      <data key="d7">2</data>
+      <data key="d8">3</data>
+      <data key="d9">GPT-3</data>
+      <data key="d10">3. &lt;a href='https://en.wikipedia.org/wiki/GPT-3' target='_blank'&gt;GPT-3&lt;/a&gt;&lt;br /&gt;Generative Pre-trained Transformer 3 (GPT-3) is a large language model released by OpenAI in 2020. Like its predecessor, GPT-2, it is a decoder-only transformer model of deep neural network, which supersedes recurrence and convolution-based architectures with a technique known as "attention". This attention mechanism allows the model to selectively focus on segments of input text it predicts to be most relevant. It uses a 2048-tokens-long context, float16 (16-bit) precision, and a hitherto-unpre&lt;br /&gt;[200, G2, L2, PR]</data>
+      <data key="d11">2</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Natural language processing">
+      <data key="d0">Natural language processing</data>
+      <data key="d1">2</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Natural_language_processing</data>
+      <data key="d3">Natural_language_processing</data>
+      <data key="d4">Natural language processing</data>
+      <data key="d5">200</data>
+      <data key="d6">Natural language processing (NLP) is an interdisciplinary subfield of computer science and information retrieval. It is primarily concerned with giving computers the ability to support and manipulate human language. It involves processing natural language datasets, such as text corpora or speech corpora, using either rule-based or probabilistic machine learning approaches. The goal is a computer capable of "understanding" the contents of documents, including the contextual nuances of the languag</data>
+      <data key="d7">2</data>
+      <data key="d8">4</data>
+      <data key="d9">Natural language processing</data>
+      <data key="d10">4. &lt;a href='https://en.wikipedia.org/wiki/Natural_language_processing' target='_blank'&gt;Natural language processing&lt;/a&gt;&lt;br /&gt;Natural language processing (NLP) is an interdisciplinary subfield of computer science and information retrieval. It is primarily concerned with giving computers the ability to support and manipulate human language. It involves processing natural language datasets, such as text corpora or speech corpora, using either rule-based or probabilistic machine learning approaches. The goal is a computer capable of "understanding" the contents of documents, including the contextual nuances of the languag&lt;br /&gt;[200, G2, L2, PR]</data>
+      <data key="d11">2</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Deep learning">
+      <data key="d0">Deep learning</data>
+      <data key="d1">2</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Deep_learning</data>
+      <data key="d3">Deep_learning</data>
+      <data key="d4">Deep learning</data>
+      <data key="d5">200</data>
+      <data key="d6">Deep learning is the subset of machine learning methods based on artificial neural networks (ANNs) with representation learning. The adjective "deep" refers to the use of multiple layers in the network. Methods used can be either supervised, semi-supervised or unsupervised.</data>
+      <data key="d7">2</data>
+      <data key="d8">5</data>
+      <data key="d9">Deep learning</data>
+      <data key="d10">5. &lt;a href='https://en.wikipedia.org/wiki/Deep_learning' target='_blank'&gt;Deep learning&lt;/a&gt;&lt;br /&gt;Deep learning is the subset of machine learning methods based on artificial neural networks (ANNs) with representation learning. The adjective "deep" refers to the use of multiple layers in the network. Methods used can be either supervised, semi-supervised or unsupervised.&lt;br /&gt;[200, G2, L2, PR]</data>
+      <data key="d11">2</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Neural network">
+      <data key="d0">Neural Network</data>
+      <data key="d1">3</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Neural_network</data>
+      <data key="d3">Neural_network</data>
+      <data key="d4">Neural network</data>
+      <data key="d5">200</data>
+      <data key="d6">A neural network is a group of interconnected units called neurons that send signals to one another. Neurons can be either biological cells or mathematical models. While individual neurons are simple, many of them together in a network can perform complex tasks. There are two main types of neural network.In neuroscience, a biological neural network is a physical structure found in brains and complex nervous systems – a population of nerve cells connected by synapses.
+In machine learning, an arti</data>
+      <data key="d7">2</data>
+      <data key="d8">6</data>
+      <data key="d9">Neural network</data>
+      <data key="d10">6. &lt;a href='https://en.wikipedia.org/wiki/Neural_network' target='_blank'&gt;Neural network&lt;/a&gt;&lt;br /&gt;A neural network is a group of interconnected units called neurons that send signals to one another. Neurons can be either biological cells or mathematical models. While individual neurons are simple, many of them together in a network can perform complex tasks. There are two main types of neural network.In neuroscience, a biological neural network is a physical structure found in brains and complex nervous systems – a population of nerve cells connected by synapses.
+In machine learning, an arti&lt;br /&gt;[200, G3, L3, PR]</data>
+      <data key="d11">3</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Recurrent neural network">
+      <data key="d0">Recurrent Neural Network (RNN)</data>
+      <data key="d1">3</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Recurrent_neural_network</data>
+      <data key="d3">Recurrent_neural_network</data>
+      <data key="d4">Recurrent neural network</data>
+      <data key="d5">200</data>
+      <data key="d6">A recurrent neural network (RNN) is one of the two broad types of artificial neural network, characterized by direction of the flow of information between its layers. In contrast to the uni-directional feedforward neural network, it is a bi-directional artificial neural network, meaning that it allows the output from some nodes to affect subsequent input to the same nodes. Their ability to use internal state (memory) to process arbitrary sequences of inputs makes them applicable to tasks such as</data>
+      <data key="d7">2</data>
+      <data key="d8">7</data>
+      <data key="d9">Recurrent neural network</data>
+      <data key="d10">7. &lt;a href='https://en.wikipedia.org/wiki/Recurrent_neural_network' target='_blank'&gt;Recurrent neural network&lt;/a&gt;&lt;br /&gt;A recurrent neural network (RNN) is one of the two broad types of artificial neural network, characterized by direction of the flow of information between its layers. In contrast to the uni-directional feedforward neural network, it is a bi-directional artificial neural network, meaning that it allows the output from some nodes to affect subsequent input to the same nodes. Their ability to use internal state (memory) to process arbitrary sequences of inputs makes them applicable to tasks such as&lt;br /&gt;[200, G3, L3, PR]</data>
+      <data key="d11">3</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="GPT (language model)">
+      <data key="d0">GPT (Generative Pre-trained Transformer)</data>
+      <data key="d1">3</data>
+      <data key="d2">https://en.wikipedia.org/wiki/GPT_(language_model)</data>
+      <data key="d3">Generative_pre-trained_transformer</data>
+      <data key="d4">Generative pre-trained transformer</data>
+      <data key="d5">200</data>
+      <data key="d6">Generative pre-trained transformers (GPT) are a type of large language model (LLM) and a prominent framework for generative artificial intelligence. They are artificial neural networks that are used in natural language processing tasks. GPTs are based on the transformer architecture, pre-trained on large data sets of unlabelled text, and able to generate novel human-like content. As of 2023, most LLMs have these characteristics and are sometimes referred to broadly as GPTs.</data>
+      <data key="d7">2</data>
+      <data key="d8">8</data>
+      <data key="d9">GPT (language model)</data>
+      <data key="d10">8. &lt;a href='https://en.wikipedia.org/wiki/GPT_(language_model)' target='_blank'&gt;GPT (language model)&lt;/a&gt; → &lt;a href='https://en.wikipedia.org/wiki/Generative_pre-trained_transformer' target='_blank'&gt;Generative pre-trained transformer&lt;/a&gt;&lt;br /&gt;Generative pre-trained transformers (GPT) are a type of large language model (LLM) and a prominent framework for generative artificial intelligence. They are artificial neural networks that are used in natural language processing tasks. GPTs are based on the transformer architecture, pre-trained on large data sets of unlabelled text, and able to generate novel human-like content. As of 2023, most LLMs have these characteristics and are sometimes referred to broadly as GPTs.&lt;br /&gt;[200, G3, L3, PR]</data>
+      <data key="d11">3</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Word2vec">
+      <data key="d0">Word2Vec (word embedding model)</data>
+      <data key="d1">3</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Word2vec</data>
+      <data key="d3">Word2vec</data>
+      <data key="d4">Word2vec</data>
+      <data key="d5">200</data>
+      <data key="d6">Word2vec is a technique in natural language processing (NLP) for obtaining vector representations of words. These vectors capture information about the meaning of the word based on the surrounding words. The word2vec algorithm estimates these representations by modeling text in a large corpus. Once trained, such a model can detect synonymous words or suggest additional words for a partial sentence. Word2vec was developed by Tomáš Mikolov and colleagues at Google and published in 2013.</data>
+      <data key="d7">0</data>
+      <data key="d8">9</data>
+      <data key="d9">Word2vec</data>
+      <data key="d10">9. &lt;a href='https://en.wikipedia.org/wiki/Word2vec' target='_blank'&gt;Word2vec&lt;/a&gt;&lt;br /&gt;Word2vec is a technique in natural language processing (NLP) for obtaining vector representations of words. These vectors capture information about the meaning of the word based on the surrounding words. The word2vec algorithm estimates these representations by modeling text in a large corpus. Once trained, such a model can detect synonymous words or suggest additional words for a partial sentence. Word2vec was developed by Tomáš Mikolov and colleagues at Google and published in 2013.&lt;br /&gt;[200, G3, L3, UN]</data>
+      <data key="d11">3</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="ELMo">
+      <data key="d0">ELMo (language model)</data>
+      <data key="d1">3</data>
+      <data key="d2">https://en.wikipedia.org/wiki/ELMo</data>
+      <data key="d3">ELMo</data>
+      <data key="d4">ELMo</data>
+      <data key="d5">200</data>
+      <data key="d6">ELMo is a word embedding method for representing a sequence of words as a corresponding sequence of vectors. Character-level tokens are taken as the inputs to a bidirectional LSTM which produces word-level embeddings. Like BERT, ELMo embeddings are context-sensitive, producing different representations for words that share the same spelling but have different meanings (homonyms) such as "bank" in "river bank" and "bank balance".</data>
+      <data key="d7">0</data>
+      <data key="d8">10</data>
+      <data key="d9">ELMo</data>
+      <data key="d10">10. &lt;a href='https://en.wikipedia.org/wiki/ELMo' target='_blank'&gt;ELMo&lt;/a&gt;&lt;br /&gt;ELMo is a word embedding method for representing a sequence of words as a corresponding sequence of vectors. Character-level tokens are taken as the inputs to a bidirectional LSTM which produces word-level embeddings. Like BERT, ELMo embeddings are context-sensitive, producing different representations for words that share the same spelling but have different meanings (homonyms) such as "bank" in "river bank" and "bank balance".&lt;br /&gt;[200, G3, L3, UN]</data>
+      <data key="d11">3</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="FastText">
+      <data key="d0">FastText (word embedding model)</data>
+      <data key="d1">3</data>
+      <data key="d2">https://en.wikipedia.org/wiki/FastText</data>
+      <data key="d3">FastText</data>
+      <data key="d4">FastText</data>
+      <data key="d5">200</data>
+      <data key="d6">fastText is a library for learning of word embeddings and text classification created by Facebook's AI Research (FAIR) lab. The model allows one to create an unsupervised learning or supervised learning algorithm for obtaining vector representations for words. Facebook makes available pretrained models for 294 languages. Several papers describe the techniques used by fastText.</data>
+      <data key="d7">0</data>
+      <data key="d8">11</data>
+      <data key="d9">FastText</data>
+      <data key="d10">11. &lt;a href='https://en.wikipedia.org/wiki/FastText' target='_blank'&gt;FastText&lt;/a&gt;&lt;br /&gt;fastText is a library for learning of word embeddings and text classification created by Facebook's AI Research (FAIR) lab. The model allows one to create an unsupervised learning or supervised learning algorithm for obtaining vector representations for words. Facebook makes available pretrained models for 294 languages. Several papers describe the techniques used by fastText.&lt;br /&gt;[200, G3, L3, UN]</data>
+      <data key="d11">3</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="GPT-2">
+      <data key="d0">GPT-2</data>
+      <data key="d1">3</data>
+      <data key="d2">https://en.wikipedia.org/wiki/GPT-2</data>
+      <data key="d3">GPT-2</data>
+      <data key="d4">GPT-2</data>
+      <data key="d5">200</data>
+      <data key="d6">Generative Pre-trained Transformer 2 (GPT-2) is a large language model by OpenAI and the second in their foundational series of GPT models. GPT-2 was pre-trained a dataset of 8 million web pages. It was partially released in February 2019, followed by full release of the 1.5-billion-parameter model on November 5, 2019.</data>
+      <data key="d7">0</data>
+      <data key="d8">12</data>
+      <data key="d9">GPT-2</data>
+      <data key="d10">12. &lt;a href='https://en.wikipedia.org/wiki/GPT-2' target='_blank'&gt;GPT-2&lt;/a&gt;&lt;br /&gt;Generative Pre-trained Transformer 2 (GPT-2) is a large language model by OpenAI and the second in their foundational series of GPT models. GPT-2 was pre-trained a dataset of 8 million web pages. It was partially released in February 2019, followed by full release of the 1.5-billion-parameter model on November 5, 2019.&lt;br /&gt;[200, G3, L3, UN]</data>
+      <data key="d11">3</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="XLNet">
+      <data key="d0">XLNet</data>
+      <data key="d1">3</data>
+      <data key="d2">https://en.wikipedia.org/wiki/XLNet</data>
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">404</data>
+      <data key="d6" />
+      <data key="d7">0</data>
+      <data key="d8">13</data>
+      <data key="d9">XLNet</data>
+      <data key="d10">13. &lt;a href='https://en.wikipedia.org/wiki/XLNet' target='_blank'&gt;XLNet&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;[404, G500, L3, UN]</data>
+      <data key="d11">500</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="T5 (text-to-text model)">
+      <data key="d0">T5 (Text-to-Text Transfer Transformer)</data>
+      <data key="d1">3</data>
+      <data key="d2">https://en.wikipedia.org/wiki/T5_(text-to-text_model)</data>
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">404</data>
+      <data key="d6" />
+      <data key="d7">0</data>
+      <data key="d8">14</data>
+      <data key="d9">T5 (text-to-text model)</data>
+      <data key="d10">14. &lt;a href='https://en.wikipedia.org/wiki/T5_(text-to-text_model)' target='_blank'&gt;T5 (text-to-text model)&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;[404, G500, L3, UN]</data>
+      <data key="d11">500</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="RoBERTa">
+      <data key="d0">RoBERTa</data>
+      <data key="d1">3</data>
+      <data key="d2">https://en.wikipedia.org/wiki/RoBERTa</data>
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">404</data>
+      <data key="d6" />
+      <data key="d7">0</data>
+      <data key="d8">15</data>
+      <data key="d9">RoBERTa</data>
+      <data key="d10">15. &lt;a href='https://en.wikipedia.org/wiki/RoBERTa' target='_blank'&gt;RoBERTa&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;[404, G500, L3, UN]</data>
+      <data key="d11">500</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Machine learning">
+      <data key="d0">Machine learning</data>
+      <data key="d1">3</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Machine_learning</data>
+      <data key="d3">Machine_learning</data>
+      <data key="d4">Machine learning</data>
+      <data key="d5">200</data>
+      <data key="d6">Machine learning (ML) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data, and thus perform tasks without explicit instructions. Recently, artificial neural networks have been able to surpass many previous approaches in performance.</data>
+      <data key="d7">0</data>
+      <data key="d8">16</data>
+      <data key="d9">Machine learning</data>
+      <data key="d10">16. &lt;a href='https://en.wikipedia.org/wiki/Machine_learning' target='_blank'&gt;Machine learning&lt;/a&gt;&lt;br /&gt;Machine learning (ML) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data, and thus perform tasks without explicit instructions. Recently, artificial neural networks have been able to surpass many previous approaches in performance.&lt;br /&gt;[200, G3, L3, UN]</data>
+      <data key="d11">3</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Computational linguistics">
+      <data key="d0">Computational linguistics</data>
+      <data key="d1">3</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Computational_linguistics</data>
+      <data key="d3">Computational_linguistics</data>
+      <data key="d4">Computational linguistics</data>
+      <data key="d5">200</data>
+      <data key="d6">Computational linguistics is an interdisciplinary field concerned with the computational modelling of natural language, as well as the study of appropriate computational approaches to linguistic questions. In general, computational linguistics draws upon linguistics, computer science, artificial intelligence, mathematics, logic, philosophy, cognitive science, cognitive psychology, psycholinguistics, anthropology and neuroscience, among others.</data>
+      <data key="d7">0</data>
+      <data key="d8">17</data>
+      <data key="d9">Computational linguistics</data>
+      <data key="d10">17. &lt;a href='https://en.wikipedia.org/wiki/Computational_linguistics' target='_blank'&gt;Computational linguistics&lt;/a&gt;&lt;br /&gt;Computational linguistics is an interdisciplinary field concerned with the computational modelling of natural language, as well as the study of appropriate computational approaches to linguistic questions. In general, computational linguistics draws upon linguistics, computer science, artificial intelligence, mathematics, logic, philosophy, cognitive science, cognitive psychology, psycholinguistics, anthropology and neuroscience, among others.&lt;br /&gt;[200, G3, L3, UN]</data>
+      <data key="d11">3</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Text mining">
+      <data key="d0">Text mining</data>
+      <data key="d1">3</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Text_mining</data>
+      <data key="d3">Text_mining</data>
+      <data key="d4">Text mining</data>
+      <data key="d5">200</data>
+      <data key="d6">Text mining, text data mining (TDM) or text analytics is the process of deriving high-quality information from text. It involves "the discovery by computer of new, previously unknown information, by automatically extracting information from different written resources." Written resources may include websites, books, emails, reviews, and articles. High-quality information is typically obtained by devising patterns and trends by means such as statistical pattern learning. According to Hotho et al.</data>
+      <data key="d7">0</data>
+      <data key="d8">18</data>
+      <data key="d9">Text mining</data>
+      <data key="d10">18. &lt;a href='https://en.wikipedia.org/wiki/Text_mining' target='_blank'&gt;Text mining&lt;/a&gt;&lt;br /&gt;Text mining, text data mining (TDM) or text analytics is the process of deriving high-quality information from text. It involves "the discovery by computer of new, previously unknown information, by automatically extracting information from different written resources." Written resources may include websites, books, emails, reviews, and articles. High-quality information is typically obtained by devising patterns and trends by means such as statistical pattern learning. According to Hotho et al.&lt;br /&gt;[200, G3, L3, UN]</data>
+      <data key="d11">3</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Information retrieval">
+      <data key="d0">Information retrieval</data>
+      <data key="d1">3</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Information_retrieval</data>
+      <data key="d3">Information_retrieval</data>
+      <data key="d4">Information retrieval</data>
+      <data key="d5">200</data>
+      <data key="d6">Information retrieval (IR) in computing and information science is the task of identifying and retrieving information system resources that are relevant to an information need. The information need can be specified in the form of a search query. In the case of document retrieval, queries can be based on full-text or other content-based indexing. Information retrieval is the science of searching for information in a document, searching for documents themselves, and also searching for the metadata</data>
+      <data key="d7">0</data>
+      <data key="d8">19</data>
+      <data key="d9">Information retrieval</data>
+      <data key="d10">19. &lt;a href='https://en.wikipedia.org/wiki/Information_retrieval' target='_blank'&gt;Information retrieval&lt;/a&gt;&lt;br /&gt;Information retrieval (IR) in computing and information science is the task of identifying and retrieving information system resources that are relevant to an information need. The information need can be specified in the form of a search query. In the case of document retrieval, queries can be based on full-text or other content-based indexing. Information retrieval is the science of searching for information in a document, searching for documents themselves, and also searching for the metadata&lt;br /&gt;[200, G3, L3, UN]</data>
+      <data key="d11">3</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Semantic analysis">
+      <data key="d0">Semantic analysis</data>
+      <data key="d1">3</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Semantic_analysis</data>
+      <data key="d3">Semantic_analysis</data>
+      <data key="d4">Semantic analysis</data>
+      <data key="d5">200</data>
+      <data key="d6">Semantic analysis may refer to:</data>
+      <data key="d7">0</data>
+      <data key="d8">20</data>
+      <data key="d9">Semantic analysis</data>
+      <data key="d10">20. &lt;a href='https://en.wikipedia.org/wiki/Semantic_analysis' target='_blank'&gt;Semantic analysis&lt;/a&gt;&lt;br /&gt;Semantic analysis may refer to:&lt;br /&gt;[200, G3, L3, UN]</data>
+      <data key="d11">3</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Artificial neural network">
+      <data key="d0">Neural networks</data>
+      <data key="d1">3</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Artificial_neural_network</data>
+      <data key="d3">Neural_network_(machine_learning)</data>
+      <data key="d4">Neural network (machine learning)</data>
+      <data key="d5">200</data>
+      <data key="d6">In machine learning, a neural network is a model inspired by the neuronal organization found in the biological neural networks in animal brains.</data>
+      <data key="d7">0</data>
+      <data key="d8">21</data>
+      <data key="d9">Artificial neural network</data>
+      <data key="d10">21. &lt;a href='https://en.wikipedia.org/wiki/Artificial_neural_network' target='_blank'&gt;Artificial neural network&lt;/a&gt; → &lt;a href='https://en.wikipedia.org/wiki/Neural_network_(machine_learning)' target='_blank'&gt;Neural network (machine learning)&lt;/a&gt;&lt;br /&gt;In machine learning, a neural network is a model inspired by the neuronal organization found in the biological neural networks in animal brains.&lt;br /&gt;[200, G3, L3, UN]</data>
+      <data key="d11">3</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Artificial intelligence">
+      <data key="d0">Artificial intelligence</data>
+      <data key="d1">3</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Artificial_intelligence</data>
+      <data key="d3">Artificial_intelligence</data>
+      <data key="d4">Artificial intelligence</data>
+      <data key="d5">200</data>
+      <data key="d6">Artificial intelligence (AI), in its broadest sense, is intelligence exhibited by machines, particularly computer systems. It is a field of research in computer science that develops and studies methods and software which enable machines to perceive their environment and uses learning and intelligence to take actions that maximize their chances of achieving defined goals. Such machines may be called AIs.</data>
+      <data key="d7">0</data>
+      <data key="d8">22</data>
+      <data key="d9">Artificial intelligence</data>
+      <data key="d10">22. &lt;a href='https://en.wikipedia.org/wiki/Artificial_intelligence' target='_blank'&gt;Artificial intelligence&lt;/a&gt;&lt;br /&gt;Artificial intelligence (AI), in its broadest sense, is intelligence exhibited by machines, particularly computer systems. It is a field of research in computer science that develops and studies methods and software which enable machines to perceive their environment and uses learning and intelligence to take actions that maximize their chances of achieving defined goals. Such machines may be called AIs.&lt;br /&gt;[200, G3, L3, UN]</data>
+      <data key="d11">3</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Computer vision">
+      <data key="d0">Computer vision</data>
+      <data key="d1">3</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Computer_vision</data>
+      <data key="d3">Computer_vision</data>
+      <data key="d4">Computer vision</data>
+      <data key="d5">200</data>
+      <data key="d6">Computer vision tasks include methods for acquiring, processing, analyzing and understanding digital images, and extraction of high-dimensional data from the real world in order to produce numerical or symbolic information, e.g. in the forms of decisions. Understanding in this context means the transformation of visual images into descriptions of the world that make sense to thought processes and can elicit appropriate action. This image understanding can be seen as the disentangling of symbolic</data>
+      <data key="d7">0</data>
+      <data key="d8">23</data>
+      <data key="d9">Computer vision</data>
+      <data key="d10">23. &lt;a href='https://en.wikipedia.org/wiki/Computer_vision' target='_blank'&gt;Computer vision&lt;/a&gt;&lt;br /&gt;Computer vision tasks include methods for acquiring, processing, analyzing and understanding digital images, and extraction of high-dimensional data from the real world in order to produce numerical or symbolic information, e.g. in the forms of decisions. Understanding in this context means the transformation of visual images into descriptions of the world that make sense to thought processes and can elicit appropriate action. This image understanding can be seen as the disentangling of symbolic&lt;br /&gt;[200, G3, L3, UN]</data>
+      <data key="d11">3</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Convolutional neural network">
+      <data key="d0">Convolutional neural network</data>
+      <data key="d1">4</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Convolutional_neural_network</data>
+      <data key="d3">Convolutional_neural_network</data>
+      <data key="d4">Convolutional neural network</data>
+      <data key="d5">200</data>
+      <data key="d6">Convolutional neural network (CNN) is a regularized type of feed-forward neural network that learns feature engineering by itself via filters optimization. Vanishing gradients and exploding gradients, seen during backpropagation in earlier neural networks, are prevented by using regularized weights over fewer connections. For example, for each neuron in the fully-connected layer 10,000 weights would be required for processing an image sized 100 × 100 pixels. However, applying cascaded convolutio</data>
+      <data key="d7">0</data>
+      <data key="d8">24</data>
+      <data key="d9">Convolutional neural network</data>
+      <data key="d10">24. &lt;a href='https://en.wikipedia.org/wiki/Convolutional_neural_network' target='_blank'&gt;Convolutional neural network&lt;/a&gt;&lt;br /&gt;Convolutional neural network (CNN) is a regularized type of feed-forward neural network that learns feature engineering by itself via filters optimization. Vanishing gradients and exploding gradients, seen during backpropagation in earlier neural networks, are prevented by using regularized weights over fewer connections. For example, for each neuron in the fully-connected layer 10,000 weights would be required for processing an image sized 100 × 100 pixels. However, applying cascaded convolutio&lt;br /&gt;[200, G4, L4, UN]</data>
+      <data key="d11">4</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Long short-term memory">
+      <data key="d0">Long short-term memory</data>
+      <data key="d1">4</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Long_short-term_memory</data>
+      <data key="d3">Long_short-term_memory</data>
+      <data key="d4">Long short-term memory</data>
+      <data key="d5">200</data>
+      <data key="d6">Long short-term memory (LSTM) network is a recurrent neural network (RNN), aimed at dealing with the vanishing gradient problem present in traditional RNNs. Its relative insensitivity to gap length is its advantage over other RNNs, hidden Markov models and other sequence learning methods. It aims to provide a short-term memory for RNN that can last thousands of timesteps, thus "long short-term memory". It is applicable to classification, processing and predicting data based on time series, such </data>
+      <data key="d7">0</data>
+      <data key="d8">25</data>
+      <data key="d9">Long short-term memory</data>
+      <data key="d10">25. &lt;a href='https://en.wikipedia.org/wiki/Long_short-term_memory' target='_blank'&gt;Long short-term memory&lt;/a&gt;&lt;br /&gt;Long short-term memory (LSTM) network is a recurrent neural network (RNN), aimed at dealing with the vanishing gradient problem present in traditional RNNs. Its relative insensitivity to gap length is its advantage over other RNNs, hidden Markov models and other sequence learning methods. It aims to provide a short-term memory for RNN that can last thousands of timesteps, thus "long short-term memory". It is applicable to classification, processing and predicting data based on time series, such &lt;br /&gt;[200, G4, L4, UN]</data>
+      <data key="d11">4</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Gated recurrent unit">
+      <data key="d0">Gated recurrent unit</data>
+      <data key="d1">4</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Gated_recurrent_unit</data>
+      <data key="d3">Gated_recurrent_unit</data>
+      <data key="d4">Gated recurrent unit</data>
+      <data key="d5">200</data>
+      <data key="d6">Gated recurrent units (GRUs) are a gating mechanism in recurrent neural networks, introduced in 2014 by Kyunghyun Cho et al. The GRU is like a long short-term memory (LSTM) with a gating mechanism to input or forget certain features, but lacks a context vector or output gate, resulting in fewer parameters than LSTM. 
+GRU's performance on certain tasks of polyphonic music modeling, speech signal modeling and natural language processing was found to be similar to that of LSTM. GRUs showed that gat</data>
+      <data key="d7">0</data>
+      <data key="d8">26</data>
+      <data key="d9">Gated recurrent unit</data>
+      <data key="d10">26. &lt;a href='https://en.wikipedia.org/wiki/Gated_recurrent_unit' target='_blank'&gt;Gated recurrent unit&lt;/a&gt;&lt;br /&gt;Gated recurrent units (GRUs) are a gating mechanism in recurrent neural networks, introduced in 2014 by Kyunghyun Cho et al. The GRU is like a long short-term memory (LSTM) with a gating mechanism to input or forget certain features, but lacks a context vector or output gate, resulting in fewer parameters than LSTM. 
+GRU's performance on certain tasks of polyphonic music modeling, speech signal modeling and natural language processing was found to be similar to that of LSTM. GRUs showed that gat&lt;br /&gt;[200, G4, L4, UN]</data>
+      <data key="d11">4</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Sequence model">
+      <data key="d0">Sequence modeling</data>
+      <data key="d1">4</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Sequence_model</data>
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">404</data>
+      <data key="d6" />
+      <data key="d7">0</data>
+      <data key="d8">27</data>
+      <data key="d9">Sequence model</data>
+      <data key="d10">27. &lt;a href='https://en.wikipedia.org/wiki/Sequence_model' target='_blank'&gt;Sequence model&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;[404, G500, L4, UN]</data>
+      <data key="d11">500</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Backpropagation through time">
+      <data key="d0">Backpropagation through time</data>
+      <data key="d1">4</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Backpropagation_through_time</data>
+      <data key="d3">Backpropagation_through_time</data>
+      <data key="d4">Backpropagation through time</data>
+      <data key="d5">200</data>
+      <data key="d6">Backpropagation through time (BPTT) is a gradient-based technique for training certain types of recurrent neural networks. It can be used to train Elman networks. The algorithm was independently derived by numerous researchers.</data>
+      <data key="d7">0</data>
+      <data key="d8">28</data>
+      <data key="d9">Backpropagation through time</data>
+      <data key="d10">28. &lt;a href='https://en.wikipedia.org/wiki/Backpropagation_through_time' target='_blank'&gt;Backpropagation through time&lt;/a&gt;&lt;br /&gt;Backpropagation through time (BPTT) is a gradient-based technique for training certain types of recurrent neural networks. It can be used to train Elman networks. The algorithm was independently derived by numerous researchers.&lt;br /&gt;[200, G4, L4, UN]</data>
+      <data key="d11">4</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Vanishing gradient problem">
+      <data key="d0">Vanishing gradient problem</data>
+      <data key="d1">4</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Vanishing_gradient_problem</data>
+      <data key="d3">Vanishing_gradient_problem</data>
+      <data key="d4">Vanishing gradient problem</data>
+      <data key="d5">200</data>
+      <data key="d6">In machine learning, the vanishing gradient problem is encountered when training recurrent neural networks with gradient-based learning methods and backpropagation. In such methods, during each iteration of training each of the neural networks weights receives an update proportional to the partial derivative of the error function with respect to the current weight. The problem is that as the sequence length increases, the gradient magnitude typically is expected to decrease, slowing the training</data>
+      <data key="d7">0</data>
+      <data key="d8">29</data>
+      <data key="d9">Vanishing gradient problem</data>
+      <data key="d10">29. &lt;a href='https://en.wikipedia.org/wiki/Vanishing_gradient_problem' target='_blank'&gt;Vanishing gradient problem&lt;/a&gt;&lt;br /&gt;In machine learning, the vanishing gradient problem is encountered when training recurrent neural networks with gradient-based learning methods and backpropagation. In such methods, during each iteration of training each of the neural networks weights receives an update proportional to the partial derivative of the error function with respect to the current weight. The problem is that as the sequence length increases, the gradient magnitude typically is expected to decrease, slowing the training&lt;br /&gt;[200, G4, L4, UN]</data>
+      <data key="d11">4</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="ELMo (language model)">
+      <data key="d0">ELMo (language model)</data>
+      <data key="d1">4</data>
+      <data key="d2">https://en.wikipedia.org/wiki/ELMo_(language_model)</data>
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">404</data>
+      <data key="d6" />
+      <data key="d7">0</data>
+      <data key="d8">30</data>
+      <data key="d9">ELMo (language model)</data>
+      <data key="d10">30. &lt;a href='https://en.wikipedia.org/wiki/ELMo_(language_model)' target='_blank'&gt;ELMo (language model)&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;[404, G500, L4, UN]</data>
+      <data key="d11">500</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="XLNet (language model)">
+      <data key="d0">XLNet (language model)</data>
+      <data key="d1">4</data>
+      <data key="d2">https://en.wikipedia.org/wiki/XLNet_(language_model)</data>
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">404</data>
+      <data key="d6" />
+      <data key="d7">0</data>
+      <data key="d8">31</data>
+      <data key="d9">XLNet (language model)</data>
+      <data key="d10">31. &lt;a href='https://en.wikipedia.org/wiki/XLNet_(language_model)' target='_blank'&gt;XLNet (language model)&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;[404, G500, L4, UN]</data>
+      <data key="d11">500</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="RoBERTa (language model)">
+      <data key="d0">RoBERTa (language model)</data>
+      <data key="d1">4</data>
+      <data key="d2">https://en.wikipedia.org/wiki/RoBERTa_(language_model)</data>
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">404</data>
+      <data key="d6" />
+      <data key="d7">0</data>
+      <data key="d8">32</data>
+      <data key="d9">RoBERTa (language model)</data>
+      <data key="d10">32. &lt;a href='https://en.wikipedia.org/wiki/RoBERTa_(language_model)' target='_blank'&gt;RoBERTa (language model)&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;[404, G500, L4, UN]</data>
+      <data key="d11">500</data>
+      <data key="d12">10</data>
+    </node>
+    <edge source="Large language model" target="Transformer (machine learning model)">
+      <data key="d13">0.9</data>
+      <data key="d14">Both Large Language Models and Transformers are types of machine learning models that have gained significant attention in the field of natural language processing.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Large language model" target="BERT (language model)">
+      <data key="d13">0.85</data>
+      <data key="d14">BERT is a specific large language model that has been widely used and studied in natural language processing tasks.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Large language model" target="GPT-3">
+      <data key="d13">0.85</data>
+      <data key="d14">GPT-3 is another example of a large language model that has been developed by OpenAI and has shown impressive capabilities in generating human-like text.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Large language model" target="Natural language processing">
+      <data key="d13">0.8</data>
+      <data key="d14">Large language models are often used in natural language processing tasks such as text generation, translation, and sentiment analysis.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Large language model" target="Deep learning">
+      <data key="d13">0.75</data>
+      <data key="d14">Large language models like GPT-3 and BERT are built using deep learning techniques, specifically neural networks with many layers.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Transformer (machine learning model)" target="Neural network">
+      <data key="d13">0.9</data>
+      <data key="d14">Both are machine learning models that involve learning from data and making predictions.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Transformer (machine learning model)" target="Deep learning">
+      <data key="d13">0.85</data>
+      <data key="d14">Both involve complex neural network architectures and are used for various machine learning tasks.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Transformer (machine learning model)" target="Recurrent neural network">
+      <data key="d13">0.8</data>
+      <data key="d14">RNNs are a type of neural network that can process sequential data, similar to how Transformers can handle sequences.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Transformer (machine learning model)" target="BERT (language model)">
+      <data key="d13">0.75</data>
+      <data key="d14">BERT is a transformer-based language model that has gained popularity for various natural language processing tasks.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Transformer (machine learning model)" target="GPT (language model)">
+      <data key="d13">0.7</data>
+      <data key="d14">GPT is another example of a transformer-based language model known for its generative capabilities.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="BERT (language model)" target="GPT-3">
+      <data key="d13">0.9</data>
+      <data key="d14">Both BERT and GPT-3 are state-of-the-art language models that use deep learning techniques for natural language processing tasks.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="BERT (language model)" target="Word2vec">
+      <data key="d13">0.8</data>
+      <data key="d14">Word2Vec and BERT are both models used in natural language processing, with Word2Vec focusing on word embeddings while BERT is a contextual language model.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="BERT (language model)" target="ELMo">
+      <data key="d13">0.85</data>
+      <data key="d14">ELMo, like BERT, is a contextual language model that captures word meaning based on the context in which the word appears.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="BERT (language model)" target="Transformer (machine learning model)">
+      <data key="d13">0.95</data>
+      <data key="d14">Both BERT and Transformer are based on the transformer architecture, which has been highly successful in natural language processing tasks.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="BERT (language model)" target="FastText">
+      <data key="d13">0.75</data>
+      <data key="d14">FastText, like BERT, is a model used for word embeddings and text classification tasks, although BERT is more focused on contextual understanding.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="GPT-3" target="GPT-2">
+      <data key="d13">0.9</data>
+      <data key="d14">Both are language models developed by OpenAI, with GPT-3 being a more advanced version of GPT-2.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="GPT-3" target="BERT (language model)">
+      <data key="d13">0.8</data>
+      <data key="d14">BERT is another popular language model that uses transformer architecture like GPT-3.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="GPT-3" target="XLNet">
+      <data key="d13">0.7</data>
+      <data key="d14">XLNet is a language model that also utilizes transformer architecture and has similarities in its approach to language understanding.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="GPT-3" target="T5 (text-to-text model)">
+      <data key="d13">0.85</data>
+      <data key="d14">T5 is a versatile language model that can perform a wide range of NLP tasks, similar to the capabilities of GPT-3.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="GPT-3" target="RoBERTa">
+      <data key="d13">0.75</data>
+      <data key="d14">RoBERTa is a variant of BERT that has been optimized for better performance, similar to the advancements seen in GPT-3.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Natural language processing" target="Machine learning">
+      <data key="d13">0.9</data>
+      <data key="d14">Both are subfields of artificial intelligence and often used together in NLP applications.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Natural language processing" target="Computational linguistics">
+      <data key="d13">0.8</data>
+      <data key="d14">Both fields involve the study of language and its computational aspects.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Natural language processing" target="Text mining">
+      <data key="d13">0.7</data>
+      <data key="d14">Text mining is closely related to NLP as it involves extracting useful information from text.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Natural language processing" target="Information retrieval">
+      <data key="d13">0.6</data>
+      <data key="d14">Both fields deal with accessing and retrieving information from large datasets, often involving text.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Natural language processing" target="Semantic analysis">
+      <data key="d13">0.8</data>
+      <data key="d14">Semantic analysis is a key component of NLP, focusing on understanding the meaning of text.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Deep learning" target="Machine learning">
+      <data key="d13">0.9</data>
+      <data key="d14">Both deep learning and machine learning are subfields of artificial intelligence that involve training algorithms to learn patterns from data.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Deep learning" target="Artificial neural network">
+      <data key="d13">0.85</data>
+      <data key="d14">Deep learning heavily relies on neural networks, especially deep neural networks, for learning representations from data.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Deep learning" target="Artificial intelligence">
+      <data key="d13">0.8</data>
+      <data key="d14">Deep learning is a subset of artificial intelligence that focuses on learning representations of data through neural networks.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Deep learning" target="Computer vision">
+      <data key="d13">0.75</data>
+      <data key="d14">Deep learning has been widely used in computer vision tasks such as image recognition and object detection.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Deep learning" target="Natural language processing">
+      <data key="d13">0.7</data>
+      <data key="d14">Deep learning has shown significant advancements in natural language processing tasks like language translation and sentiment analysis.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Neural network" target="Artificial neural network">
+      <data key="d13">0.95</data>
+      <data key="d14">Both are types of neural networks used in machine learning and artificial intelligence.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Neural network" target="Deep learning">
+      <data key="d13">0.85</data>
+      <data key="d14">Deep learning often involves neural networks with multiple layers for learning representations.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Neural network" target="Recurrent neural network">
+      <data key="d13">0.8</data>
+      <data key="d14">Both are types of neural networks that have connections feeding back into themselves.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Neural network" target="Convolutional neural network">
+      <data key="d13">0.75</data>
+      <data key="d14">Both are types of neural networks commonly used in image recognition and processing.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Neural network" target="Machine learning">
+      <data key="d13">0.7</data>
+      <data key="d14">Neural networks are often used as models in machine learning tasks.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Recurrent neural network" target="Long short-term memory">
+      <data key="d13">0.9</data>
+      <data key="d14">Both are types of recurrent neural networks designed to address the vanishing gradient problem and capture long-term dependencies.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Recurrent neural network" target="Gated recurrent unit">
+      <data key="d13">0.85</data>
+      <data key="d14">Similar to LSTM, GRU is another type of recurrent neural network that addresses the vanishing gradient problem and is used for sequence modeling.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Recurrent neural network" target="Sequence model">
+      <data key="d13">0.8</data>
+      <data key="d14">Both recurrent neural networks and sequence modeling are used for tasks involving sequential data such as time series analysis, natural language processing, and speech recognition.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Recurrent neural network" target="Backpropagation through time">
+      <data key="d13">0.75</data>
+      <data key="d14">Both concepts involve training recurrent neural networks by unfolding them over time and applying backpropagation to update the weights.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Recurrent neural network" target="Vanishing gradient problem">
+      <data key="d13">0.7</data>
+      <data key="d14">Both concepts are related as recurrent neural networks like RNNs and LSTMs face the vanishing gradient problem during training.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="GPT (language model)" target="BERT (language model)">
+      <data key="d13">0.9</data>
+      <data key="d14">Both GPT and BERT are popular language models used in natural language processing tasks.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="GPT (language model)" target="Transformer (machine learning model)">
+      <data key="d13">0.8</data>
+      <data key="d14">GPT is based on the Transformer architecture, which is also used in other language models.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="GPT (language model)" target="ELMo (language model)">
+      <data key="d13">0.7</data>
+      <data key="d14">ELMo is another popular language model that shares similarities with GPT in terms of natural language processing.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="GPT (language model)" target="XLNet (language model)">
+      <data key="d13">0.8</data>
+      <data key="d14">XLNet is a language model that, like GPT, is based on the Transformer architecture and used in various NLP tasks.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="GPT (language model)" target="RoBERTa (language model)">
+      <data key="d13">0.85</data>
+      <data key="d14">RoBERTa is a variant of BERT and shares similarities with GPT in terms of being a powerful language model.</data>
+      <data key="d15">1</data>
+    </edge>
+  </graph>
+</graphml>
