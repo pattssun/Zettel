@@ -164,10 +164,10 @@ In machine learning, an arti&lt;br /&gt;[200, G3, L3, PR]</data>
       <data key="d4">Word2vec</data>
       <data key="d5">200</data>
       <data key="d6">Word2vec is a technique in natural language processing (NLP) for obtaining vector representations of words. These vectors capture information about the meaning of the word based on the surrounding words. The word2vec algorithm estimates these representations by modeling text in a large corpus. Once trained, such a model can detect synonymous words or suggest additional words for a partial sentence. Word2vec was developed by Tomáš Mikolov and colleagues at Google and published in 2013.</data>
-      <data key="d7">0</data>
+      <data key="d7">2</data>
       <data key="d8">9</data>
       <data key="d9">Word2vec</data>
-      <data key="d10">9. &lt;a href='https://en.wikipedia.org/wiki/Word2vec' target='_blank'&gt;Word2vec&lt;/a&gt;&lt;br /&gt;Word2vec is a technique in natural language processing (NLP) for obtaining vector representations of words. These vectors capture information about the meaning of the word based on the surrounding words. The word2vec algorithm estimates these representations by modeling text in a large corpus. Once trained, such a model can detect synonymous words or suggest additional words for a partial sentence. Word2vec was developed by Tomáš Mikolov and colleagues at Google and published in 2013.&lt;br /&gt;[200, G3, L3, UN]</data>
+      <data key="d10">9. &lt;a href='https://en.wikipedia.org/wiki/Word2vec' target='_blank'&gt;Word2vec&lt;/a&gt;&lt;br /&gt;Word2vec is a technique in natural language processing (NLP) for obtaining vector representations of words. These vectors capture information about the meaning of the word based on the surrounding words. The word2vec algorithm estimates these representations by modeling text in a large corpus. Once trained, such a model can detect synonymous words or suggest additional words for a partial sentence. Word2vec was developed by Tomáš Mikolov and colleagues at Google and published in 2013.&lt;br /&gt;[200, G3, L3, PR]</data>
       <data key="d11">3</data>
       <data key="d12">10</data>
     </node>
@@ -179,10 +179,10 @@ In machine learning, an arti&lt;br /&gt;[200, G3, L3, PR]</data>
       <data key="d4">ELMo</data>
       <data key="d5">200</data>
       <data key="d6">ELMo is a word embedding method for representing a sequence of words as a corresponding sequence of vectors. Character-level tokens are taken as the inputs to a bidirectional LSTM which produces word-level embeddings. Like BERT, ELMo embeddings are context-sensitive, producing different representations for words that share the same spelling but have different meanings (homonyms) such as "bank" in "river bank" and "bank balance".</data>
-      <data key="d7">0</data>
+      <data key="d7">2</data>
       <data key="d8">10</data>
       <data key="d9">ELMo</data>
-      <data key="d10">10. &lt;a href='https://en.wikipedia.org/wiki/ELMo' target='_blank'&gt;ELMo&lt;/a&gt;&lt;br /&gt;ELMo is a word embedding method for representing a sequence of words as a corresponding sequence of vectors. Character-level tokens are taken as the inputs to a bidirectional LSTM which produces word-level embeddings. Like BERT, ELMo embeddings are context-sensitive, producing different representations for words that share the same spelling but have different meanings (homonyms) such as "bank" in "river bank" and "bank balance".&lt;br /&gt;[200, G3, L3, UN]</data>
+      <data key="d10">10. &lt;a href='https://en.wikipedia.org/wiki/ELMo' target='_blank'&gt;ELMo&lt;/a&gt;&lt;br /&gt;ELMo is a word embedding method for representing a sequence of words as a corresponding sequence of vectors. Character-level tokens are taken as the inputs to a bidirectional LSTM which produces word-level embeddings. Like BERT, ELMo embeddings are context-sensitive, producing different representations for words that share the same spelling but have different meanings (homonyms) such as "bank" in "river bank" and "bank balance".&lt;br /&gt;[200, G3, L3, PR]</data>
       <data key="d11">3</data>
       <data key="d12">10</data>
     </node>
@@ -194,10 +194,10 @@ In machine learning, an arti&lt;br /&gt;[200, G3, L3, PR]</data>
       <data key="d4">FastText</data>
       <data key="d5">200</data>
       <data key="d6">fastText is a library for learning of word embeddings and text classification created by Facebook's AI Research (FAIR) lab. The model allows one to create an unsupervised learning or supervised learning algorithm for obtaining vector representations for words. Facebook makes available pretrained models for 294 languages. Several papers describe the techniques used by fastText.</data>
-      <data key="d7">0</data>
+      <data key="d7">2</data>
       <data key="d8">11</data>
       <data key="d9">FastText</data>
-      <data key="d10">11. &lt;a href='https://en.wikipedia.org/wiki/FastText' target='_blank'&gt;FastText&lt;/a&gt;&lt;br /&gt;fastText is a library for learning of word embeddings and text classification created by Facebook's AI Research (FAIR) lab. The model allows one to create an unsupervised learning or supervised learning algorithm for obtaining vector representations for words. Facebook makes available pretrained models for 294 languages. Several papers describe the techniques used by fastText.&lt;br /&gt;[200, G3, L3, UN]</data>
+      <data key="d10">11. &lt;a href='https://en.wikipedia.org/wiki/FastText' target='_blank'&gt;FastText&lt;/a&gt;&lt;br /&gt;fastText is a library for learning of word embeddings and text classification created by Facebook's AI Research (FAIR) lab. The model allows one to create an unsupervised learning or supervised learning algorithm for obtaining vector representations for words. Facebook makes available pretrained models for 294 languages. Several papers describe the techniques used by fastText.&lt;br /&gt;[200, G3, L3, PR]</data>
       <data key="d11">3</data>
       <data key="d12">10</data>
     </node>
@@ -209,10 +209,10 @@ In machine learning, an arti&lt;br /&gt;[200, G3, L3, PR]</data>
       <data key="d4">GPT-2</data>
       <data key="d5">200</data>
       <data key="d6">Generative Pre-trained Transformer 2 (GPT-2) is a large language model by OpenAI and the second in their foundational series of GPT models. GPT-2 was pre-trained a dataset of 8 million web pages. It was partially released in February 2019, followed by full release of the 1.5-billion-parameter model on November 5, 2019.</data>
-      <data key="d7">0</data>
+      <data key="d7">2</data>
       <data key="d8">12</data>
       <data key="d9">GPT-2</data>
-      <data key="d10">12. &lt;a href='https://en.wikipedia.org/wiki/GPT-2' target='_blank'&gt;GPT-2&lt;/a&gt;&lt;br /&gt;Generative Pre-trained Transformer 2 (GPT-2) is a large language model by OpenAI and the second in their foundational series of GPT models. GPT-2 was pre-trained a dataset of 8 million web pages. It was partially released in February 2019, followed by full release of the 1.5-billion-parameter model on November 5, 2019.&lt;br /&gt;[200, G3, L3, UN]</data>
+      <data key="d10">12. &lt;a href='https://en.wikipedia.org/wiki/GPT-2' target='_blank'&gt;GPT-2&lt;/a&gt;&lt;br /&gt;Generative Pre-trained Transformer 2 (GPT-2) is a large language model by OpenAI and the second in their foundational series of GPT models. GPT-2 was pre-trained a dataset of 8 million web pages. It was partially released in February 2019, followed by full release of the 1.5-billion-parameter model on November 5, 2019.&lt;br /&gt;[200, G3, L3, PR]</data>
       <data key="d11">3</data>
       <data key="d12">10</data>
     </node>
@@ -224,10 +224,10 @@ In machine learning, an arti&lt;br /&gt;[200, G3, L3, PR]</data>
       <data key="d4" />
       <data key="d5">404</data>
       <data key="d6" />
-      <data key="d7">0</data>
+      <data key="d7">2</data>
       <data key="d8">13</data>
       <data key="d9">XLNet</data>
-      <data key="d10">13. &lt;a href='https://en.wikipedia.org/wiki/XLNet' target='_blank'&gt;XLNet&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;[404, G500, L3, UN]</data>
+      <data key="d10">13. &lt;a href='https://en.wikipedia.org/wiki/XLNet' target='_blank'&gt;XLNet&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;[404, G500, L3, PR]</data>
       <data key="d11">500</data>
       <data key="d12">10</data>
     </node>
@@ -239,10 +239,10 @@ In machine learning, an arti&lt;br /&gt;[200, G3, L3, PR]</data>
       <data key="d4" />
       <data key="d5">404</data>
       <data key="d6" />
-      <data key="d7">0</data>
+      <data key="d7">2</data>
       <data key="d8">14</data>
       <data key="d9">T5 (text-to-text model)</data>
-      <data key="d10">14. &lt;a href='https://en.wikipedia.org/wiki/T5_(text-to-text_model)' target='_blank'&gt;T5 (text-to-text model)&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;[404, G500, L3, UN]</data>
+      <data key="d10">14. &lt;a href='https://en.wikipedia.org/wiki/T5_(text-to-text_model)' target='_blank'&gt;T5 (text-to-text model)&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;[404, G500, L3, PR]</data>
       <data key="d11">500</data>
       <data key="d12">10</data>
     </node>
@@ -254,10 +254,10 @@ In machine learning, an arti&lt;br /&gt;[200, G3, L3, PR]</data>
       <data key="d4" />
       <data key="d5">404</data>
       <data key="d6" />
-      <data key="d7">0</data>
+      <data key="d7">2</data>
       <data key="d8">15</data>
       <data key="d9">RoBERTa</data>
-      <data key="d10">15. &lt;a href='https://en.wikipedia.org/wiki/RoBERTa' target='_blank'&gt;RoBERTa&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;[404, G500, L3, UN]</data>
+      <data key="d10">15. &lt;a href='https://en.wikipedia.org/wiki/RoBERTa' target='_blank'&gt;RoBERTa&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;[404, G500, L3, PR]</data>
       <data key="d11">500</data>
       <data key="d12">10</data>
     </node>
@@ -269,10 +269,10 @@ In machine learning, an arti&lt;br /&gt;[200, G3, L3, PR]</data>
       <data key="d4">Machine learning</data>
       <data key="d5">200</data>
       <data key="d6">Machine learning (ML) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data, and thus perform tasks without explicit instructions. Recently, artificial neural networks have been able to surpass many previous approaches in performance.</data>
-      <data key="d7">0</data>
+      <data key="d7">2</data>
       <data key="d8">16</data>
       <data key="d9">Machine learning</data>
-      <data key="d10">16. &lt;a href='https://en.wikipedia.org/wiki/Machine_learning' target='_blank'&gt;Machine learning&lt;/a&gt;&lt;br /&gt;Machine learning (ML) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data, and thus perform tasks without explicit instructions. Recently, artificial neural networks have been able to surpass many previous approaches in performance.&lt;br /&gt;[200, G3, L3, UN]</data>
+      <data key="d10">16. &lt;a href='https://en.wikipedia.org/wiki/Machine_learning' target='_blank'&gt;Machine learning&lt;/a&gt;&lt;br /&gt;Machine learning (ML) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data, and thus perform tasks without explicit instructions. Recently, artificial neural networks have been able to surpass many previous approaches in performance.&lt;br /&gt;[200, G3, L3, PR]</data>
       <data key="d11">3</data>
       <data key="d12">10</data>
     </node>
@@ -284,10 +284,10 @@ In machine learning, an arti&lt;br /&gt;[200, G3, L3, PR]</data>
       <data key="d4">Computational linguistics</data>
       <data key="d5">200</data>
       <data key="d6">Computational linguistics is an interdisciplinary field concerned with the computational modelling of natural language, as well as the study of appropriate computational approaches to linguistic questions. In general, computational linguistics draws upon linguistics, computer science, artificial intelligence, mathematics, logic, philosophy, cognitive science, cognitive psychology, psycholinguistics, anthropology and neuroscience, among others.</data>
-      <data key="d7">0</data>
+      <data key="d7">2</data>
       <data key="d8">17</data>
       <data key="d9">Computational linguistics</data>
-      <data key="d10">17. &lt;a href='https://en.wikipedia.org/wiki/Computational_linguistics' target='_blank'&gt;Computational linguistics&lt;/a&gt;&lt;br /&gt;Computational linguistics is an interdisciplinary field concerned with the computational modelling of natural language, as well as the study of appropriate computational approaches to linguistic questions. In general, computational linguistics draws upon linguistics, computer science, artificial intelligence, mathematics, logic, philosophy, cognitive science, cognitive psychology, psycholinguistics, anthropology and neuroscience, among others.&lt;br /&gt;[200, G3, L3, UN]</data>
+      <data key="d10">17. &lt;a href='https://en.wikipedia.org/wiki/Computational_linguistics' target='_blank'&gt;Computational linguistics&lt;/a&gt;&lt;br /&gt;Computational linguistics is an interdisciplinary field concerned with the computational modelling of natural language, as well as the study of appropriate computational approaches to linguistic questions. In general, computational linguistics draws upon linguistics, computer science, artificial intelligence, mathematics, logic, philosophy, cognitive science, cognitive psychology, psycholinguistics, anthropology and neuroscience, among others.&lt;br /&gt;[200, G3, L3, PR]</data>
       <data key="d11">3</data>
       <data key="d12">10</data>
     </node>
@@ -299,10 +299,10 @@ In machine learning, an arti&lt;br /&gt;[200, G3, L3, PR]</data>
       <data key="d4">Text mining</data>
       <data key="d5">200</data>
       <data key="d6">Text mining, text data mining (TDM) or text analytics is the process of deriving high-quality information from text. It involves "the discovery by computer of new, previously unknown information, by automatically extracting information from different written resources." Written resources may include websites, books, emails, reviews, and articles. High-quality information is typically obtained by devising patterns and trends by means such as statistical pattern learning. According to Hotho et al.</data>
-      <data key="d7">0</data>
+      <data key="d7">2</data>
       <data key="d8">18</data>
       <data key="d9">Text mining</data>
-      <data key="d10">18. &lt;a href='https://en.wikipedia.org/wiki/Text_mining' target='_blank'&gt;Text mining&lt;/a&gt;&lt;br /&gt;Text mining, text data mining (TDM) or text analytics is the process of deriving high-quality information from text. It involves "the discovery by computer of new, previously unknown information, by automatically extracting information from different written resources." Written resources may include websites, books, emails, reviews, and articles. High-quality information is typically obtained by devising patterns and trends by means such as statistical pattern learning. According to Hotho et al.&lt;br /&gt;[200, G3, L3, UN]</data>
+      <data key="d10">18. &lt;a href='https://en.wikipedia.org/wiki/Text_mining' target='_blank'&gt;Text mining&lt;/a&gt;&lt;br /&gt;Text mining, text data mining (TDM) or text analytics is the process of deriving high-quality information from text. It involves "the discovery by computer of new, previously unknown information, by automatically extracting information from different written resources." Written resources may include websites, books, emails, reviews, and articles. High-quality information is typically obtained by devising patterns and trends by means such as statistical pattern learning. According to Hotho et al.&lt;br /&gt;[200, G3, L3, PR]</data>
       <data key="d11">3</data>
       <data key="d12">10</data>
     </node>
@@ -314,10 +314,10 @@ In machine learning, an arti&lt;br /&gt;[200, G3, L3, PR]</data>
       <data key="d4">Information retrieval</data>
       <data key="d5">200</data>
       <data key="d6">Information retrieval (IR) in computing and information science is the task of identifying and retrieving information system resources that are relevant to an information need. The information need can be specified in the form of a search query. In the case of document retrieval, queries can be based on full-text or other content-based indexing. Information retrieval is the science of searching for information in a document, searching for documents themselves, and also searching for the metadata</data>
-      <data key="d7">0</data>
+      <data key="d7">2</data>
       <data key="d8">19</data>
       <data key="d9">Information retrieval</data>
-      <data key="d10">19. &lt;a href='https://en.wikipedia.org/wiki/Information_retrieval' target='_blank'&gt;Information retrieval&lt;/a&gt;&lt;br /&gt;Information retrieval (IR) in computing and information science is the task of identifying and retrieving information system resources that are relevant to an information need. The information need can be specified in the form of a search query. In the case of document retrieval, queries can be based on full-text or other content-based indexing. Information retrieval is the science of searching for information in a document, searching for documents themselves, and also searching for the metadata&lt;br /&gt;[200, G3, L3, UN]</data>
+      <data key="d10">19. &lt;a href='https://en.wikipedia.org/wiki/Information_retrieval' target='_blank'&gt;Information retrieval&lt;/a&gt;&lt;br /&gt;Information retrieval (IR) in computing and information science is the task of identifying and retrieving information system resources that are relevant to an information need. The information need can be specified in the form of a search query. In the case of document retrieval, queries can be based on full-text or other content-based indexing. Information retrieval is the science of searching for information in a document, searching for documents themselves, and also searching for the metadata&lt;br /&gt;[200, G3, L3, PR]</data>
       <data key="d11">3</data>
       <data key="d12">10</data>
     </node>
@@ -329,10 +329,10 @@ In machine learning, an arti&lt;br /&gt;[200, G3, L3, PR]</data>
       <data key="d4">Semantic analysis</data>
       <data key="d5">200</data>
       <data key="d6">Semantic analysis may refer to:</data>
-      <data key="d7">0</data>
+      <data key="d7">2</data>
       <data key="d8">20</data>
       <data key="d9">Semantic analysis</data>
-      <data key="d10">20. &lt;a href='https://en.wikipedia.org/wiki/Semantic_analysis' target='_blank'&gt;Semantic analysis&lt;/a&gt;&lt;br /&gt;Semantic analysis may refer to:&lt;br /&gt;[200, G3, L3, UN]</data>
+      <data key="d10">20. &lt;a href='https://en.wikipedia.org/wiki/Semantic_analysis' target='_blank'&gt;Semantic analysis&lt;/a&gt;&lt;br /&gt;Semantic analysis may refer to:&lt;br /&gt;[200, G3, L3, PR]</data>
       <data key="d11">3</data>
       <data key="d12">10</data>
     </node>
@@ -344,10 +344,10 @@ In machine learning, an arti&lt;br /&gt;[200, G3, L3, PR]</data>
       <data key="d4">Neural network (machine learning)</data>
       <data key="d5">200</data>
       <data key="d6">In machine learning, a neural network is a model inspired by the neuronal organization found in the biological neural networks in animal brains.</data>
-      <data key="d7">0</data>
+      <data key="d7">2</data>
       <data key="d8">21</data>
       <data key="d9">Artificial neural network</data>
-      <data key="d10">21. &lt;a href='https://en.wikipedia.org/wiki/Artificial_neural_network' target='_blank'&gt;Artificial neural network&lt;/a&gt; → &lt;a href='https://en.wikipedia.org/wiki/Neural_network_(machine_learning)' target='_blank'&gt;Neural network (machine learning)&lt;/a&gt;&lt;br /&gt;In machine learning, a neural network is a model inspired by the neuronal organization found in the biological neural networks in animal brains.&lt;br /&gt;[200, G3, L3, UN]</data>
+      <data key="d10">21. &lt;a href='https://en.wikipedia.org/wiki/Artificial_neural_network' target='_blank'&gt;Artificial neural network&lt;/a&gt; → &lt;a href='https://en.wikipedia.org/wiki/Neural_network_(machine_learning)' target='_blank'&gt;Neural network (machine learning)&lt;/a&gt;&lt;br /&gt;In machine learning, a neural network is a model inspired by the neuronal organization found in the biological neural networks in animal brains.&lt;br /&gt;[200, G3, L3, PR]</data>
       <data key="d11">3</data>
       <data key="d12">10</data>
     </node>
@@ -359,10 +359,10 @@ In machine learning, an arti&lt;br /&gt;[200, G3, L3, PR]</data>
       <data key="d4">Artificial intelligence</data>
       <data key="d5">200</data>
       <data key="d6">Artificial intelligence (AI), in its broadest sense, is intelligence exhibited by machines, particularly computer systems. It is a field of research in computer science that develops and studies methods and software which enable machines to perceive their environment and uses learning and intelligence to take actions that maximize their chances of achieving defined goals. Such machines may be called AIs.</data>
-      <data key="d7">0</data>
+      <data key="d7">2</data>
       <data key="d8">22</data>
       <data key="d9">Artificial intelligence</data>
-      <data key="d10">22. &lt;a href='https://en.wikipedia.org/wiki/Artificial_intelligence' target='_blank'&gt;Artificial intelligence&lt;/a&gt;&lt;br /&gt;Artificial intelligence (AI), in its broadest sense, is intelligence exhibited by machines, particularly computer systems. It is a field of research in computer science that develops and studies methods and software which enable machines to perceive their environment and uses learning and intelligence to take actions that maximize their chances of achieving defined goals. Such machines may be called AIs.&lt;br /&gt;[200, G3, L3, UN]</data>
+      <data key="d10">22. &lt;a href='https://en.wikipedia.org/wiki/Artificial_intelligence' target='_blank'&gt;Artificial intelligence&lt;/a&gt;&lt;br /&gt;Artificial intelligence (AI), in its broadest sense, is intelligence exhibited by machines, particularly computer systems. It is a field of research in computer science that develops and studies methods and software which enable machines to perceive their environment and uses learning and intelligence to take actions that maximize their chances of achieving defined goals. Such machines may be called AIs.&lt;br /&gt;[200, G3, L3, PR]</data>
       <data key="d11">3</data>
       <data key="d12">10</data>
     </node>
@@ -374,10 +374,10 @@ In machine learning, an arti&lt;br /&gt;[200, G3, L3, PR]</data>
       <data key="d4">Computer vision</data>
       <data key="d5">200</data>
       <data key="d6">Computer vision tasks include methods for acquiring, processing, analyzing and understanding digital images, and extraction of high-dimensional data from the real world in order to produce numerical or symbolic information, e.g. in the forms of decisions. Understanding in this context means the transformation of visual images into descriptions of the world that make sense to thought processes and can elicit appropriate action. This image understanding can be seen as the disentangling of symbolic</data>
-      <data key="d7">0</data>
+      <data key="d7">2</data>
       <data key="d8">23</data>
       <data key="d9">Computer vision</data>
-      <data key="d10">23. &lt;a href='https://en.wikipedia.org/wiki/Computer_vision' target='_blank'&gt;Computer vision&lt;/a&gt;&lt;br /&gt;Computer vision tasks include methods for acquiring, processing, analyzing and understanding digital images, and extraction of high-dimensional data from the real world in order to produce numerical or symbolic information, e.g. in the forms of decisions. Understanding in this context means the transformation of visual images into descriptions of the world that make sense to thought processes and can elicit appropriate action. This image understanding can be seen as the disentangling of symbolic&lt;br /&gt;[200, G3, L3, UN]</data>
+      <data key="d10">23. &lt;a href='https://en.wikipedia.org/wiki/Computer_vision' target='_blank'&gt;Computer vision&lt;/a&gt;&lt;br /&gt;Computer vision tasks include methods for acquiring, processing, analyzing and understanding digital images, and extraction of high-dimensional data from the real world in order to produce numerical or symbolic information, e.g. in the forms of decisions. Understanding in this context means the transformation of visual images into descriptions of the world that make sense to thought processes and can elicit appropriate action. This image understanding can be seen as the disentangling of symbolic&lt;br /&gt;[200, G3, L3, PR]</data>
       <data key="d11">3</data>
       <data key="d12">10</data>
     </node>
@@ -516,6 +516,293 @@ GRU's performance on certain tasks of polyphonic music modeling, speech signal m
       <data key="d9">RoBERTa (language model)</data>
       <data key="d10">32. &lt;a href='https://en.wikipedia.org/wiki/RoBERTa_(language_model)' target='_blank'&gt;RoBERTa (language model)&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;[404, G500, L4, UN]</data>
       <data key="d11">500</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="GloVe (machine learning)">
+      <data key="d0">GloVe (Global Vectors for Word Representation)</data>
+      <data key="d1">4</data>
+      <data key="d2">https://en.wikipedia.org/wiki/GloVe_(machine_learning)</data>
+      <data key="d3">GloVe</data>
+      <data key="d4">GloVe</data>
+      <data key="d5">200</data>
+      <data key="d6">GloVe, coined from Global Vectors, is a model for distributed word representation. The model is an unsupervised learning algorithm for obtaining vector representations for words. This is achieved by mapping words into a meaningful space where the distance between words is related to semantic similarity. Training is performed on aggregated global word-word co-occurrence statistics from a corpus, and the resulting representations showcase interesting linear substructures of the word vector space. </data>
+      <data key="d7">0</data>
+      <data key="d8">33</data>
+      <data key="d9">GloVe (machine learning)</data>
+      <data key="d10">33. &lt;a href='https://en.wikipedia.org/wiki/GloVe_(machine_learning)' target='_blank'&gt;GloVe (machine learning)&lt;/a&gt; → &lt;a href='https://en.wikipedia.org/wiki/GloVe' target='_blank'&gt;GloVe&lt;/a&gt;&lt;br /&gt;GloVe, coined from Global Vectors, is a model for distributed word representation. The model is an unsupervised learning algorithm for obtaining vector representations for words. This is achieved by mapping words into a meaningful space where the distance between words is related to semantic similarity. Training is performed on aggregated global word-word co-occurrence statistics from a corpus, and the resulting representations showcase interesting linear substructures of the word vector space. &lt;br /&gt;[200, G4, L4, UN]</data>
+      <data key="d11">4</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Doc2vec">
+      <data key="d0">Doc2Vec</data>
+      <data key="d1">4</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Doc2vec</data>
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">404</data>
+      <data key="d6" />
+      <data key="d7">0</data>
+      <data key="d8">34</data>
+      <data key="d9">Doc2vec</data>
+      <data key="d10">34. &lt;a href='https://en.wikipedia.org/wiki/Doc2vec' target='_blank'&gt;Doc2vec&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;[404, G500, L4, UN]</data>
+      <data key="d11">500</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="ULMFiT">
+      <data key="d0">ULMFiT (Universal Language Model Fine-tuning)</data>
+      <data key="d1">4</data>
+      <data key="d2">https://en.wikipedia.org/wiki/ULMFiT</data>
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">404</data>
+      <data key="d6" />
+      <data key="d7">0</data>
+      <data key="d8">35</data>
+      <data key="d9">ULMFiT</data>
+      <data key="d10">35. &lt;a href='https://en.wikipedia.org/wiki/ULMFiT' target='_blank'&gt;ULMFiT&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;[404, G500, L4, UN]</data>
+      <data key="d11">500</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Word embedding">
+      <data key="d0">Word Embedding</data>
+      <data key="d1">4</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Word_embedding</data>
+      <data key="d3">Word_embedding</data>
+      <data key="d4">Word embedding</data>
+      <data key="d5">200</data>
+      <data key="d6">In natural language processing (NLP), a word embedding is a representation of a word. The embedding is used in text analysis. Typically, the representation is a real-valued vector that encodes the meaning of the word in such a way that the words that are closer in the vector space are expected to be similar in meaning. Word embeddings can be obtained using language modeling and feature learning techniques, where words or phrases from the vocabulary are mapped to vectors of real numbers.</data>
+      <data key="d7">0</data>
+      <data key="d8">36</data>
+      <data key="d9">Word embedding</data>
+      <data key="d10">36. &lt;a href='https://en.wikipedia.org/wiki/Word_embedding' target='_blank'&gt;Word embedding&lt;/a&gt;&lt;br /&gt;In natural language processing (NLP), a word embedding is a representation of a word. The embedding is used in text analysis. Typically, the representation is a real-valued vector that encodes the meaning of the word in such a way that the words that are closer in the vector space are expected to be similar in meaning. Word embeddings can be obtained using language modeling and feature learning techniques, where words or phrases from the vocabulary are mapped to vectors of real numbers.&lt;br /&gt;[200, G4, L4, UN]</data>
+      <data key="d11">4</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="ALBERT (language model)">
+      <data key="d0">ALBERT (A Lite BERT for Self-supervised Learning of Language Representations)</data>
+      <data key="d1">4</data>
+      <data key="d2">https://en.wikipedia.org/wiki/ALBERT_(language_model)</data>
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">404</data>
+      <data key="d6" />
+      <data key="d7">0</data>
+      <data key="d8">37</data>
+      <data key="d9">ALBERT (language model)</data>
+      <data key="d10">37. &lt;a href='https://en.wikipedia.org/wiki/ALBERT_(language_model)' target='_blank'&gt;ALBERT (language model)&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;[404, G500, L4, UN]</data>
+      <data key="d11">500</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="DistilBERT">
+      <data key="d0">DistilBERT (language model)</data>
+      <data key="d1">4</data>
+      <data key="d2">https://en.wikipedia.org/wiki/DistilBERT</data>
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">404</data>
+      <data key="d6" />
+      <data key="d7">0</data>
+      <data key="d8">38</data>
+      <data key="d9">DistilBERT</data>
+      <data key="d10">38. &lt;a href='https://en.wikipedia.org/wiki/DistilBERT' target='_blank'&gt;DistilBERT&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;[404, G500, L4, UN]</data>
+      <data key="d11">500</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Data mining">
+      <data key="d0">Data mining</data>
+      <data key="d1">4</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Data_mining</data>
+      <data key="d3">Data_mining</data>
+      <data key="d4">Data mining</data>
+      <data key="d5">200</data>
+      <data key="d6">Data mining is the process of extracting and discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems. Data mining is an interdisciplinary subfield of computer science and statistics with an overall goal of extracting information from a data set and transforming the information into a comprehensible structure for further use. Data mining is the analysis step of the "knowledge discovery in databases" process, or KDD. Aside</data>
+      <data key="d7">0</data>
+      <data key="d8">39</data>
+      <data key="d9">Data mining</data>
+      <data key="d10">39. &lt;a href='https://en.wikipedia.org/wiki/Data_mining' target='_blank'&gt;Data mining&lt;/a&gt;&lt;br /&gt;Data mining is the process of extracting and discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems. Data mining is an interdisciplinary subfield of computer science and statistics with an overall goal of extracting information from a data set and transforming the information into a comprehensible structure for further use. Data mining is the analysis step of the "knowledge discovery in databases" process, or KDD. Aside&lt;br /&gt;[200, G4, L4, UN]</data>
+      <data key="d11">4</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Pattern recognition">
+      <data key="d0">Pattern recognition</data>
+      <data key="d1">4</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Pattern_recognition</data>
+      <data key="d3">Pattern_recognition</data>
+      <data key="d4">Pattern recognition</data>
+      <data key="d5">200</data>
+      <data key="d6">Pattern recognition is the task of assigning a class to an observation based on patterns extracted from data. While similar, pattern recognition (PR) is not to be confused with pattern machines (PM) which may possess (PR) capabilities but their primary function is to distinguish and create emergent pattern. PR has applications in statistical data analysis, signal processing, image analysis, information retrieval, bioinformatics, data compression, computer graphics and machine learning. Pattern r</data>
+      <data key="d7">0</data>
+      <data key="d8">40</data>
+      <data key="d9">Pattern recognition</data>
+      <data key="d10">40. &lt;a href='https://en.wikipedia.org/wiki/Pattern_recognition' target='_blank'&gt;Pattern recognition&lt;/a&gt;&lt;br /&gt;Pattern recognition is the task of assigning a class to an observation based on patterns extracted from data. While similar, pattern recognition (PR) is not to be confused with pattern machines (PM) which may possess (PR) capabilities but their primary function is to distinguish and create emergent pattern. PR has applications in statistical data analysis, signal processing, image analysis, information retrieval, bioinformatics, data compression, computer graphics and machine learning. Pattern r&lt;br /&gt;[200, G4, L4, UN]</data>
+      <data key="d11">4</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Machine translation">
+      <data key="d0">Machine Translation</data>
+      <data key="d1">4</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Machine_translation</data>
+      <data key="d3">Machine_translation</data>
+      <data key="d4">Machine translation</data>
+      <data key="d5">200</data>
+      <data key="d6">Machine translation is use of either rule-based or probabilistic machine learning approaches to translation of text or speech from one language to another, including the contextual, idiomatic and pragmatic nuances of both languages.</data>
+      <data key="d7">0</data>
+      <data key="d8">41</data>
+      <data key="d9">Machine translation</data>
+      <data key="d10">41. &lt;a href='https://en.wikipedia.org/wiki/Machine_translation' target='_blank'&gt;Machine translation&lt;/a&gt;&lt;br /&gt;Machine translation is use of either rule-based or probabilistic machine learning approaches to translation of text or speech from one language to another, including the contextual, idiomatic and pragmatic nuances of both languages.&lt;br /&gt;[200, G4, L4, UN]</data>
+      <data key="d11">4</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Computational semantics">
+      <data key="d0">Computational Semantics</data>
+      <data key="d1">4</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Computational_semantics</data>
+      <data key="d3">Computational_semantics</data>
+      <data key="d4">Computational semantics</data>
+      <data key="d5">200</data>
+      <data key="d6">Computational semantics is the study of how to automate the process of constructing and reasoning with meaning representations of natural language expressions. It consequently plays an important role in natural-language processing and computational linguistics.</data>
+      <data key="d7">0</data>
+      <data key="d8">42</data>
+      <data key="d9">Computational semantics</data>
+      <data key="d10">42. &lt;a href='https://en.wikipedia.org/wiki/Computational_semantics' target='_blank'&gt;Computational semantics&lt;/a&gt;&lt;br /&gt;Computational semantics is the study of how to automate the process of constructing and reasoning with meaning representations of natural language expressions. It consequently plays an important role in natural-language processing and computational linguistics.&lt;br /&gt;[200, G4, L4, UN]</data>
+      <data key="d11">4</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Text analytics">
+      <data key="d0">Text Analytics</data>
+      <data key="d1">4</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Text_analytics</data>
+      <data key="d3">Text_mining</data>
+      <data key="d4">Text mining</data>
+      <data key="d5">200</data>
+      <data key="d6">Text mining, text data mining (TDM) or text analytics is the process of deriving high-quality information from text. It involves "the discovery by computer of new, previously unknown information, by automatically extracting information from different written resources." Written resources may include websites, books, emails, reviews, and articles. High-quality information is typically obtained by devising patterns and trends by means such as statistical pattern learning. According to Hotho et al.</data>
+      <data key="d7">0</data>
+      <data key="d8">43</data>
+      <data key="d9">Text analytics</data>
+      <data key="d10">43. &lt;a href='https://en.wikipedia.org/wiki/Text_analytics' target='_blank'&gt;Text analytics&lt;/a&gt; → &lt;a href='https://en.wikipedia.org/wiki/Text_mining' target='_blank'&gt;Text mining&lt;/a&gt;&lt;br /&gt;Text mining, text data mining (TDM) or text analytics is the process of deriving high-quality information from text. It involves "the discovery by computer of new, previously unknown information, by automatically extracting information from different written resources." Written resources may include websites, books, emails, reviews, and articles. High-quality information is typically obtained by devising patterns and trends by means such as statistical pattern learning. According to Hotho et al.&lt;br /&gt;[200, G4, L4, UN]</data>
+      <data key="d11">4</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Information extraction">
+      <data key="d0">Information extraction</data>
+      <data key="d1">4</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Information_extraction</data>
+      <data key="d3">Information_extraction</data>
+      <data key="d4">Information extraction</data>
+      <data key="d5">200</data>
+      <data key="d6">Information extraction (IE) is the task of automatically extracting structured information from unstructured and/or semi-structured machine-readable documents and other electronically represented sources. Typically, this involves processing human language texts by means of natural language processing (NLP). Recent activities in multimedia document processing like automatic annotation and content extraction out of images/audio/video/documents could be seen as information extraction.</data>
+      <data key="d7">0</data>
+      <data key="d8">44</data>
+      <data key="d9">Information extraction</data>
+      <data key="d10">44. &lt;a href='https://en.wikipedia.org/wiki/Information_extraction' target='_blank'&gt;Information extraction&lt;/a&gt;&lt;br /&gt;Information extraction (IE) is the task of automatically extracting structured information from unstructured and/or semi-structured machine-readable documents and other electronically represented sources. Typically, this involves processing human language texts by means of natural language processing (NLP). Recent activities in multimedia document processing like automatic annotation and content extraction out of images/audio/video/documents could be seen as information extraction.&lt;br /&gt;[200, G4, L4, UN]</data>
+      <data key="d11">4</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Document classification">
+      <data key="d0">Document classification</data>
+      <data key="d1">4</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Document_classification</data>
+      <data key="d3">Document_classification</data>
+      <data key="d4">Document classification</data>
+      <data key="d5">200</data>
+      <data key="d6">Document classification or document categorization is a problem in library science, information science and computer science. The task is to assign a document to one or more classes or categories. This may be done "manually" or algorithmically. The intellectual classification of documents has mostly been the province of library science, while the algorithmic classification of documents is mainly in information science and computer science. The problems are overlapping, however, and there is ther</data>
+      <data key="d7">0</data>
+      <data key="d8">45</data>
+      <data key="d9">Document classification</data>
+      <data key="d10">45. &lt;a href='https://en.wikipedia.org/wiki/Document_classification' target='_blank'&gt;Document classification&lt;/a&gt;&lt;br /&gt;Document classification or document categorization is a problem in library science, information science and computer science. The task is to assign a document to one or more classes or categories. This may be done "manually" or algorithmically. The intellectual classification of documents has mostly been the province of library science, while the algorithmic classification of documents is mainly in information science and computer science. The problems are overlapping, however, and there is ther&lt;br /&gt;[200, G4, L4, UN]</data>
+      <data key="d11">4</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Information filtering system">
+      <data key="d0">Information filtering</data>
+      <data key="d1">4</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Information_filtering_system</data>
+      <data key="d3">Information_filtering_system</data>
+      <data key="d4">Information filtering system</data>
+      <data key="d5">200</data>
+      <data key="d6">
+An information filtering system is a system that removes redundant or unwanted information from an information stream using (semi)automated or computerized methods prior to presentation to a human user. Its main goal is the management of the information overload and increment of the semantic signal-to-noise ratio. To do this the user's profile is compared to some reference characteristics. These characteristics may originate from the information item or the user's social environment.</data>
+      <data key="d7">0</data>
+      <data key="d8">46</data>
+      <data key="d9">Information filtering system</data>
+      <data key="d10">46. &lt;a href='https://en.wikipedia.org/wiki/Information_filtering_system' target='_blank'&gt;Information filtering system&lt;/a&gt;&lt;br /&gt;
+An information filtering system is a system that removes redundant or unwanted information from an information stream using (semi)automated or computerized methods prior to presentation to a human user. Its main goal is the management of the information overload and increment of the semantic signal-to-noise ratio. To do this the user's profile is compared to some reference characteristics. These characteristics may originate from the information item or the user's social environment.&lt;br /&gt;[200, G4, L4, UN]</data>
+      <data key="d11">4</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Relevance feedback">
+      <data key="d0">Relevance feedback</data>
+      <data key="d1">4</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Relevance_feedback</data>
+      <data key="d3">Relevance_feedback</data>
+      <data key="d4">Relevance feedback</data>
+      <data key="d5">200</data>
+      <data key="d6">Relevance feedback is a feature of some information retrieval systems. The idea behind relevance feedback is to take the results that are initially returned from a given query, to gather user feedback, and to use information about whether or not those results are relevant to perform a new query. We can usefully distinguish between three types of feedback: explicit feedback, implicit feedback, and blind or "pseudo" feedback.</data>
+      <data key="d7">0</data>
+      <data key="d8">47</data>
+      <data key="d9">Relevance feedback</data>
+      <data key="d10">47. &lt;a href='https://en.wikipedia.org/wiki/Relevance_feedback' target='_blank'&gt;Relevance feedback&lt;/a&gt;&lt;br /&gt;Relevance feedback is a feature of some information retrieval systems. The idea behind relevance feedback is to take the results that are initially returned from a given query, to gather user feedback, and to use information about whether or not those results are relevant to perform a new query. We can usefully distinguish between three types of feedback: explicit feedback, implicit feedback, and blind or "pseudo" feedback.&lt;br /&gt;[200, G4, L4, UN]</data>
+      <data key="d11">4</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Neural network software">
+      <data key="d0">Neural network software</data>
+      <data key="d1">4</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Neural_network_software</data>
+      <data key="d3">Neural_network_software</data>
+      <data key="d4">Neural network software</data>
+      <data key="d5">200</data>
+      <data key="d6">Neural network software is used to simulate, research, develop, and apply artificial neural networks, software concepts adapted from biological neural networks, and in some cases, a wider array of adaptive systems such as artificial intelligence and machine learning.</data>
+      <data key="d7">0</data>
+      <data key="d8">48</data>
+      <data key="d9">Neural network software</data>
+      <data key="d10">48. &lt;a href='https://en.wikipedia.org/wiki/Neural_network_software' target='_blank'&gt;Neural network software&lt;/a&gt;&lt;br /&gt;Neural network software is used to simulate, research, develop, and apply artificial neural networks, software concepts adapted from biological neural networks, and in some cases, a wider array of adaptive systems such as artificial intelligence and machine learning.&lt;br /&gt;[200, G4, L4, UN]</data>
+      <data key="d11">4</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Robotics">
+      <data key="d0">Robotics</data>
+      <data key="d1">4</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Robotics</data>
+      <data key="d3">Robotics</data>
+      <data key="d4">Robotics</data>
+      <data key="d5">200</data>
+      <data key="d6">Robotics is the interdisciplinary study and practice of the design, construction, operation, and use of robots.</data>
+      <data key="d7">0</data>
+      <data key="d8">49</data>
+      <data key="d9">Robotics</data>
+      <data key="d10">49. &lt;a href='https://en.wikipedia.org/wiki/Robotics' target='_blank'&gt;Robotics&lt;/a&gt;&lt;br /&gt;Robotics is the interdisciplinary study and practice of the design, construction, operation, and use of robots.&lt;br /&gt;[200, G4, L4, UN]</data>
+      <data key="d11">4</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Digital image processing">
+      <data key="d0">Image processing</data>
+      <data key="d1">4</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Digital_image_processing</data>
+      <data key="d3">Digital_image_processing</data>
+      <data key="d4">Digital image processing</data>
+      <data key="d5">200</data>
+      <data key="d6">Digital image processing is the use of a digital computer to process digital images through an algorithm. As a subcategory or field of digital signal processing, digital image processing has many advantages over analog image processing. It allows a much wider range of algorithms to be applied to the input data and can avoid problems such as the build-up of noise and distortion during processing. Since images are defined over two dimensions digital image processing may be modeled in the form of m</data>
+      <data key="d7">0</data>
+      <data key="d8">50</data>
+      <data key="d9">Digital image processing</data>
+      <data key="d10">50. &lt;a href='https://en.wikipedia.org/wiki/Digital_image_processing' target='_blank'&gt;Digital image processing&lt;/a&gt;&lt;br /&gt;Digital image processing is the use of a digital computer to process digital images through an algorithm. As a subcategory or field of digital signal processing, digital image processing has many advantages over analog image processing. It allows a much wider range of algorithms to be applied to the input data and can avoid problems such as the build-up of noise and distortion during processing. Since images are defined over two dimensions digital image processing may be modeled in the form of m&lt;br /&gt;[200, G4, L4, UN]</data>
+      <data key="d11">4</data>
+      <data key="d12">10</data>
+    </node>
+    <node id="Computer graphics">
+      <data key="d0">Computer graphics</data>
+      <data key="d1">4</data>
+      <data key="d2">https://en.wikipedia.org/wiki/Computer_graphics</data>
+      <data key="d3">Computer_graphics</data>
+      <data key="d4">Computer graphics</data>
+      <data key="d5">200</data>
+      <data key="d6">Computer graphics deals with by generating images and art with the aid of computers. Today, computer graphics is a core technology in digital photography, film, video games, digital art, cell phone and computer displays, and many specialized applications. A great deal of specialized hardware and software has been developed, with the displays of most devices being driven by computer graphics hardware. It is a vast and recently developed area of computer science. The phrase was coined in 1960 by c</data>
+      <data key="d7">0</data>
+      <data key="d8">51</data>
+      <data key="d9">Computer graphics</data>
+      <data key="d10">51. &lt;a href='https://en.wikipedia.org/wiki/Computer_graphics' target='_blank'&gt;Computer graphics&lt;/a&gt;&lt;br /&gt;Computer graphics deals with by generating images and art with the aid of computers. Today, computer graphics is a core technology in digital photography, film, video games, digital art, cell phone and computer displays, and many specialized applications. A great deal of specialized hardware and software has been developed, with the displays of most devices being driven by computer graphics hardware. It is a vast and recently developed area of computer science. The phrase was coined in 1960 by c&lt;br /&gt;[200, G4, L4, UN]</data>
+      <data key="d11">4</data>
       <data key="d12">10</data>
     </node>
     <edge source="Large language model" target="Transformer (machine learning model)">
@@ -741,6 +1028,381 @@ GRU's performance on certain tasks of polyphonic music modeling, speech signal m
     <edge source="GPT (language model)" target="RoBERTa (language model)">
       <data key="d13">0.85</data>
       <data key="d14">RoBERTa is a variant of BERT and shares similarities with GPT in terms of being a powerful language model.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Word2vec" target="GloVe (machine learning)">
+      <data key="d13">0.8</data>
+      <data key="d14">Both Word2vec and GloVe are popular algorithms used for word embeddings in natural language processing tasks.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Word2vec" target="FastText">
+      <data key="d13">0.7</data>
+      <data key="d14">FastText is another word embedding technique that shares similarities with Word2vec in terms of capturing semantic relationships between words.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Word2vec" target="BERT (language model)">
+      <data key="d13">0.6</data>
+      <data key="d14">BERT is a transformer-based model that also focuses on contextual word embeddings, similar to the context-aware embeddings generated by Word2vec.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Word2vec" target="Doc2vec">
+      <data key="d13">0.7</data>
+      <data key="d14">Doc2Vec is an extension of Word2vec that can generate document-level embeddings, making it similar to Word2vec in terms of capturing semantic meanings.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Word2vec" target="ELMo">
+      <data key="d13">0.6</data>
+      <data key="d14">ELMo is a deep contextualized word representation model that, like Word2vec, aims to capture word meanings in context.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="ELMo" target="BERT (language model)">
+      <data key="d13">0.9</data>
+      <data key="d14">Both ELMo and BERT are popular pre-trained language models based on deep learning techniques for natural language processing tasks.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="ELMo" target="GloVe (machine learning)">
+      <data key="d13">0.8</data>
+      <data key="d14">GloVe is another word embedding technique like ELMo that captures semantic relationships between words in a vector space.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="ELMo" target="Word2vec">
+      <data key="d13">0.7</data>
+      <data key="d14">Word2Vec is a popular word embedding technique that, like ELMo, represents words as vectors in a continuous space.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="ELMo" target="Transformer (machine learning model)">
+      <data key="d13">0.85</data>
+      <data key="d14">ELMo and Transformers share similarities in their architecture design, both utilizing self-attention mechanisms for capturing contextual information.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="ELMo" target="ULMFiT">
+      <data key="d13">0.75</data>
+      <data key="d14">ULMFiT is a technique for fine-tuning pre-trained language models, similar to how ELMo can be fine-tuned for specific NLP tasks.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="FastText" target="Word2vec">
+      <data key="d13">0.8</data>
+      <data key="d14">Both FastText and Word2Vec are popular word embedding models developed by Facebook AI Research (FAIR). They are both used for natural language processing tasks and share similarities in their underlying algorithms.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="FastText" target="GloVe (machine learning)">
+      <data key="d13">0.7</data>
+      <data key="d14">GloVe is another popular word embedding model commonly used in natural language processing. Like FastText, GloVe aims to capture semantic relationships between words in a vector space.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="FastText" target="BERT (language model)">
+      <data key="d13">0.6</data>
+      <data key="d14">BERT is a state-of-the-art language model developed by Google that has revolutionized natural language understanding tasks. While FastText focuses on word embeddings, BERT operates at the sentence and context level, but both are widely used in NLP.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="FastText" target="ELMo">
+      <data key="d13">0.6</data>
+      <data key="d14">ELMo is another contextual word embedding model that captures word meanings based on their context in a sentence. FastText and ELMo are both used for enhancing word representations with contextual information.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="FastText" target="Doc2vec">
+      <data key="d13">0.5</data>
+      <data key="d14">Doc2Vec is an extension of Word2Vec that learns document-level embeddings. FastText and Doc2Vec are both used for capturing semantic relationships at different levels of text granularity.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="GPT-2" target="GPT-3">
+      <data key="d13">0.9</data>
+      <data key="d14">Both GPT-2 and GPT-3 are advanced natural language processing models developed by OpenAI, with GPT-3 being a more recent and improved version.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="GPT-2" target="BERT (language model)">
+      <data key="d13">0.8</data>
+      <data key="d14">BERT is another popular natural language processing model that utilizes transformer architecture, similar to GPT-2.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="GPT-2" target="Transformer (machine learning model)">
+      <data key="d13">0.7</data>
+      <data key="d14">Both GPT-2 and Transformers are based on transformer architecture, which has been a significant advancement in natural language processing.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="GPT-2" target="Recurrent neural network">
+      <data key="d13">0.6</data>
+      <data key="d14">RNNs are another type of neural network commonly used in natural language processing tasks, sharing similarities with GPT-2 in the context of sequential data processing.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="GPT-2" target="Word embedding">
+      <data key="d13">0.7</data>
+      <data key="d14">Word embeddings are a key component in language models like GPT-2, as they help represent words in a continuous vector space, enabling better language understanding.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="XLNet" target="BERT (language model)">
+      <data key="d13">0.9</data>
+      <data key="d14">Both XLNet and BERT are transformer-based language models that have achieved state-of-the-art performance on various natural language processing tasks.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="XLNet" target="GPT-3">
+      <data key="d13">0.85</data>
+      <data key="d14">XLNet and GPT-3 are both transformer-based language models known for their large-scale pre-training and impressive generation capabilities.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="XLNet" target="RoBERTa">
+      <data key="d13">0.8</data>
+      <data key="d14">RoBERTa is a variant of BERT that incorporates improvements in training and data augmentation techniques, similar to XLNet's focus on enhancing pre-training methods.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="XLNet" target="ALBERT (language model)">
+      <data key="d13">0.75</data>
+      <data key="d14">ALBERT, like XLNet, aims to improve the efficiency and effectiveness of pre-training transformer models through parameter reduction and other optimizations.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="XLNet" target="T5 (text-to-text model)">
+      <data key="d13">0.7</data>
+      <data key="d14">XLNet and T5 both belong to the transformer model family and focus on text-to-text tasks, with T5 emphasizing the unified text-to-text framework for various NLP tasks.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="T5 (text-to-text model)" target="Transformer (machine learning model)">
+      <data key="d13">0.9</data>
+      <data key="d14">Both T5 and Transformers are machine learning models that have been widely used in natural language processing tasks.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="T5 (text-to-text model)" target="BERT (language model)">
+      <data key="d13">0.85</data>
+      <data key="d14">BERT is another popular language model based on the Transformer architecture, similar to T5.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="T5 (text-to-text model)" target="GPT-3">
+      <data key="d13">0.8</data>
+      <data key="d14">GPT-3 is a state-of-the-art language model that also utilizes the Transformer architecture like T5.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="T5 (text-to-text model)" target="XLNet">
+      <data key="d13">0.75</data>
+      <data key="d14">XLNet is another language model that is based on the Transformer architecture, similar to T5.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="T5 (text-to-text model)" target="RoBERTa">
+      <data key="d13">0.7</data>
+      <data key="d14">RoBERTa is a variant of BERT that also uses the Transformer architecture, making it similar to T5.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="RoBERTa" target="BERT (language model)">
+      <data key="d13">0.9</data>
+      <data key="d14">Both RoBERTa and BERT are transformer-based language models developed by Google AI, with RoBERTa being an optimized version of BERT.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="RoBERTa" target="GPT-3">
+      <data key="d13">0.8</data>
+      <data key="d14">Both RoBERTa and GPT-3 are state-of-the-art language models based on transformer architecture, although they differ in training objectives and methodologies.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="RoBERTa" target="XLNet">
+      <data key="d13">0.7</data>
+      <data key="d14">RoBERTa and XLNet are both transformer-based language models that have achieved high performance on various natural language processing tasks.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="RoBERTa" target="ALBERT (language model)">
+      <data key="d13">0.85</data>
+      <data key="d14">RoBERTa and ALBERT are both transformer-based language models designed to improve upon the limitations of BERT.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="RoBERTa" target="DistilBERT">
+      <data key="d13">0.75</data>
+      <data key="d14">RoBERTa and DistilBERT are both derived from BERT and aim to reduce the model size and computational cost while maintaining performance.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Machine learning" target="Artificial intelligence">
+      <data key="d13">0.9</data>
+      <data key="d14">Both are related to the field of AI and involve algorithms that enable machines to learn from data.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Machine learning" target="Deep learning">
+      <data key="d13">0.85</data>
+      <data key="d14">Deep learning is a subset of machine learning that focuses on neural networks and complex algorithms for learning representations.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Machine learning" target="Data mining">
+      <data key="d13">0.8</data>
+      <data key="d14">Both involve extracting patterns and knowledge from large datasets, with machine learning being a key technique in data mining.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Machine learning" target="Pattern recognition">
+      <data key="d13">0.75</data>
+      <data key="d14">Both fields involve recognizing patterns and regularities in data, with machine learning algorithms often used for pattern recognition tasks.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Machine learning" target="Natural language processing">
+      <data key="d13">0.7</data>
+      <data key="d14">Both fields involve developing algorithms and models that enable machines to understand and generate human language, with machine learning techniques commonly used in NLP.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Computational linguistics" target="Natural language processing">
+      <data key="d13">0.9</data>
+      <data key="d14">Both fields involve the study of language and its computational aspects.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Computational linguistics" target="Machine translation">
+      <data key="d13">0.85</data>
+      <data key="d14">Both fields deal with the automatic translation of languages using computational methods.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Computational linguistics" target="Information retrieval">
+      <data key="d13">0.8</data>
+      <data key="d14">Both fields focus on retrieving relevant information from large datasets, often involving text processing.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Computational linguistics" target="Computational semantics">
+      <data key="d13">0.75</data>
+      <data key="d14">Both fields explore the computational aspects of meaning in language.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Computational linguistics" target="Text mining">
+      <data key="d13">0.7</data>
+      <data key="d14">Both fields involve extracting valuable insights and knowledge from textual data using computational techniques.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Text mining" target="Natural language processing">
+      <data key="d13">0.9</data>
+      <data key="d14">Both involve extracting meaningful information from textual data.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Text mining" target="Information retrieval">
+      <data key="d13">0.85</data>
+      <data key="d14">Both deal with searching and retrieving relevant information from text.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Text mining" target="Text analytics">
+      <data key="d13">0.8</data>
+      <data key="d14">Both involve analyzing and extracting insights from text data.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Text mining" target="Machine learning">
+      <data key="d13">0.75</data>
+      <data key="d14">Text mining often utilizes machine learning algorithms for analysis.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Text mining" target="Data mining">
+      <data key="d13">0.7</data>
+      <data key="d14">Both involve extracting patterns and knowledge from large datasets.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Information retrieval" target="Information extraction">
+      <data key="d13">0.8</data>
+      <data key="d14">Both Information retrieval and Information extraction are subfields of natural language processing that involve extracting relevant information from unstructured data.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Information retrieval" target="Text mining">
+      <data key="d13">0.7</data>
+      <data key="d14">Text mining involves the process of deriving high-quality information from text data sources, which is closely related to the goal of information retrieval.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Information retrieval" target="Document classification">
+      <data key="d13">0.6</data>
+      <data key="d14">Document classification is a task in information retrieval that involves categorizing documents based on their content or topic.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Information retrieval" target="Information filtering system">
+      <data key="d13">0.7</data>
+      <data key="d14">Information filtering is a process that involves selecting relevant information based on user preferences or criteria, similar to the goal of information retrieval.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Information retrieval" target="Relevance feedback">
+      <data key="d13">0.8</data>
+      <data key="d14">Relevance feedback is a technique in information retrieval where users provide feedback on the relevance of retrieved results to improve future retrieval performance.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Semantic analysis" target="Natural language processing">
+      <data key="d13">0.8</data>
+      <data key="d14">Both involve analyzing and understanding language data to extract meaning and insights.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Semantic analysis" target="Text mining">
+      <data key="d13">0.7</data>
+      <data key="d14">Both involve extracting information and insights from textual data.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Semantic analysis" target="Information extraction">
+      <data key="d13">0.6</data>
+      <data key="d14">Both involve identifying and extracting structured information from unstructured data.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Semantic analysis" target="Computational linguistics">
+      <data key="d13">0.7</data>
+      <data key="d14">Both fields deal with the computational analysis of language data.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Semantic analysis" target="Text analytics">
+      <data key="d13">0.7</data>
+      <data key="d14">Both involve analyzing and deriving insights from textual data.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Artificial neural network" target="Deep learning">
+      <data key="d13">0.9</data>
+      <data key="d14">Both involve the study and development of artificial intelligence systems inspired by the structure and function of the human brain.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Artificial neural network" target="Machine learning">
+      <data key="d13">0.85</data>
+      <data key="d14">Artificial neural networks are a key component of machine learning algorithms.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Artificial neural network" target="Recurrent neural network">
+      <data key="d13">0.8</data>
+      <data key="d14">Both are types of neural networks used in artificial intelligence applications.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Artificial neural network" target="Convolutional neural network">
+      <data key="d13">0.75</data>
+      <data key="d14">Both are types of neural networks commonly used in image and video recognition tasks.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Artificial neural network" target="Neural network software">
+      <data key="d13">0.7</data>
+      <data key="d14">Both involve the implementation and training of neural networks for various applications.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Artificial intelligence" target="Machine learning">
+      <data key="d13">0.9</data>
+      <data key="d14">Both are subfields of artificial intelligence and involve algorithms that enable machines to learn from data.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Artificial intelligence" target="Deep learning">
+      <data key="d13">0.85</data>
+      <data key="d14">Deep learning is a subset of machine learning that focuses on neural networks and has been a significant advancement in AI.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Artificial intelligence" target="Natural language processing">
+      <data key="d13">0.8</data>
+      <data key="d14">Both AI and NLP deal with understanding and processing human language, with NLP being a key application of AI.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Artificial intelligence" target="Robotics">
+      <data key="d13">0.75</data>
+      <data key="d14">Robotics often involves the integration of AI technologies to enable robots to perform tasks autonomously.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Artificial intelligence" target="Computer vision">
+      <data key="d13">0.7</data>
+      <data key="d14">Computer vision is a field within AI that focuses on enabling machines to interpret and understand visual information.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Computer vision" target="Machine learning">
+      <data key="d13">0.9</data>
+      <data key="d14">Both fields involve the processing and analysis of data to make intelligent decisions.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Computer vision" target="Digital image processing">
+      <data key="d13">0.85</data>
+      <data key="d14">Computer vision heavily relies on image processing techniques for tasks like feature extraction and object recognition.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Computer vision" target="Artificial intelligence">
+      <data key="d13">0.8</data>
+      <data key="d14">Computer vision is a subfield of AI that focuses on enabling machines to interpret and understand visual information.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Computer vision" target="Deep learning">
+      <data key="d13">0.75</data>
+      <data key="d14">Both fields involve training models to learn patterns and features from data, with deep learning being a subset of machine learning.</data>
+      <data key="d15">1</data>
+    </edge>
+    <edge source="Computer vision" target="Computer graphics">
+      <data key="d13">0.7</data>
+      <data key="d14">Computer vision and computer graphics both deal with visual data, with computer vision focusing on understanding and interpreting images while computer graphics focuses on creating visual content.</data>
       <data key="d15">1</data>
     </edge>
   </graph>
